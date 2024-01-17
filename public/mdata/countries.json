@@ -1,0 +1,2451 @@
+[{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ba"
+  },
+  "country": "Algeria",
+  "abbreviation": "DZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c0"
+  },
+  "country": "Antigua and Barbuda",
+  "abbreviation": "AG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d9"
+  },
+  "country": "Burkina Faso",
+  "abbreviation": "BF",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3dd"
+  },
+  "country": "Canada",
+  "abbreviation": "CA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3df"
+  },
+  "country": "Cayman Islands",
+  "abbreviation": "KY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3bb"
+  },
+  "country": "American Samoa",
+  "abbreviation": "AS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c1"
+  },
+  "country": "Argentina",
+  "abbreviation": "AR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3cf"
+  },
+  "country": "Bermuda",
+  "abbreviation": "BM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d1"
+  },
+  "country": "Bolivia",
+  "abbreviation": "BO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ea"
+  },
+  "country": "Costa Rica",
+  "abbreviation": "CR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f7"
+  },
+  "country": "Equatorial Guinea",
+  "abbreviation": "GQ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c7"
+  },
+  "country": "Bahamas",
+  "abbreviation": "BS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e6"
+  },
+  "country": "Colombia",
+  "abbreviation": "CO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c6"
+  },
+  "country": "Azerbaijan",
+  "abbreviation": "AZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c4"
+  },
+  "country": "Australia",
+  "abbreviation": "AU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ce"
+  },
+  "country": "Benin",
+  "abbreviation": "BJ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3cd"
+  },
+  "country": "Belize",
+  "abbreviation": "BZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e1"
+  },
+  "country": "Chad",
+  "abbreviation": "TD",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ef"
+  },
+  "country": "Denmark",
+  "abbreviation": "DK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f0"
+  },
+  "country": "Djibouti",
+  "abbreviation": "DJ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c2"
+  },
+  "country": "Armenia",
+  "abbreviation": "AM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d0"
+  },
+  "country": "Bhutan",
+  "abbreviation": "BT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3cb"
+  },
+  "country": "Belarus",
+  "abbreviation": "BY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d3"
+  },
+  "country": "Botswana",
+  "abbreviation": "BW",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d7"
+  },
+  "country": "Brunei",
+  "abbreviation": "BN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e2"
+  },
+  "country": "Chile",
+  "abbreviation": "CL",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e3"
+  },
+  "country": "China",
+  "abbreviation": "CN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e4"
+  },
+  "country": "Christmas Island",
+  "abbreviation": "CX",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f1"
+  },
+  "country": "Dominica",
+  "abbreviation": "DM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d2"
+  },
+  "country": "Bosnia and Herzegovina",
+  "abbreviation": "BA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d8"
+  },
+  "country": "Bulgaria",
+  "abbreviation": "BG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3eb"
+  },
+  "country": "Croatia",
+  "abbreviation": "HR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f5"
+  },
+  "country": "Egypt",
+  "abbreviation": "EG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3b8"
+  },
+  "country": "Afghanistan",
+  "abbreviation": "AF",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3be"
+  },
+  "country": "Anguilla",
+  "abbreviation": "AI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3b9"
+  },
+  "country": "Albania",
+  "abbreviation": "AL",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c9"
+  },
+  "country": "Bangladesh",
+  "abbreviation": "BD",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d5"
+  },
+  "country": "Brazil",
+  "abbreviation": "BR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3db"
+  },
+  "country": "Cambodia",
+  "abbreviation": "KH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e5"
+  },
+  "country": "Cocos (Keeling) Islands",
+  "abbreviation": "CC",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3da"
+  },
+  "country": "Burundi",
+  "abbreviation": "BI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3cc"
+  },
+  "country": "Belgium",
+  "abbreviation": "BE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3bc"
+  },
+  "country": "Andorra",
+  "abbreviation": "AD",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e8"
+  },
+  "country": "Congo",
+  "abbreviation": "CG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c3"
+  },
+  "country": "Aruba",
+  "abbreviation": "AW",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c5"
+  },
+  "country": "Austria",
+  "abbreviation": "AT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3c8"
+  },
+  "country": "Bahrain",
+  "abbreviation": "BH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3bf"
+  },
+  "country": "Antarctica",
+  "abbreviation": "AQ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d6"
+  },
+  "country": "British Indian Ocean Territory",
+  "abbreviation": "IO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ee"
+  },
+  "country": "Czech Republic",
+  "abbreviation": "CZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3bd"
+  },
+  "country": "Angola",
+  "abbreviation": "AO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e9"
+  },
+  "country": "Cook Islands",
+  "abbreviation": "CK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ed"
+  },
+  "country": "Cyprus",
+  "abbreviation": "CY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ca"
+  },
+  "country": "Barbados",
+  "abbreviation": "BB",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3dc"
+  },
+  "country": "Cameroon",
+  "abbreviation": "CM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e7"
+  },
+  "country": "Comoros",
+  "abbreviation": "KM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ec"
+  },
+  "country": "Cuba",
+  "abbreviation": "CU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f3"
+  },
+  "country": "East Timor",
+  "abbreviation": "TP",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f4"
+  },
+  "country": "Ecuador",
+  "abbreviation": "EC",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f6"
+  },
+  "country": "El Salvador",
+  "abbreviation": "SV",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3d4"
+  },
+  "country": "Bouvet Island",
+  "abbreviation": "BV",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3de"
+  },
+  "country": "Cape Verde",
+  "abbreviation": "CV",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3e0"
+  },
+  "country": "Central African Republic",
+  "abbreviation": "CF",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f2"
+  },
+  "country": "Dominican Republic",
+  "abbreviation": "DO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3fd"
+  },
+  "country": "Fiji Islands",
+  "abbreviation": "FJ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee413"
+  },
+  "country": "Haiti",
+  "abbreviation": "HT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee415"
+  },
+  "country": "Holy See (Vatican City State)",
+  "abbreviation": "VA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee41e"
+  },
+  "country": "Ireland",
+  "abbreviation": "IE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee424"
+  },
+  "country": "Japan",
+  "abbreviation": "JP",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee429"
+  },
+  "country": "Kiribati",
+  "abbreviation": "KI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee43a"
+  },
+  "country": "Maldives",
+  "abbreviation": "MV",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee466"
+  },
+  "country": "Poland",
+  "abbreviation": "PL",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee47c"
+  },
+  "country": "Slovakia",
+  "abbreviation": "SK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee486"
+  },
+  "country": "Sudan",
+  "abbreviation": "SD",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee487"
+  },
+  "country": "Suriname",
+  "abbreviation": "SR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a6"
+  },
+  "country": "Virgin Islands, British",
+  "abbreviation": "VG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4ab"
+  },
+  "country": "Zambia",
+  "abbreviation": "ZM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee401"
+  },
+  "country": "French Polynesia",
+  "abbreviation": "PF",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee406"
+  },
+  "country": "Germany",
+  "abbreviation": "DE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee414"
+  },
+  "country": "Heard Island and McDonald Islands",
+  "abbreviation": "HM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee430"
+  },
+  "country": "Liberia",
+  "abbreviation": "LR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee436"
+  },
+  "country": "North Macedonia",
+  "abbreviation": "MK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee437"
+  },
+  "country": "Madagascar",
+  "abbreviation": "MG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee445"
+  },
+  "country": "Monaco",
+  "abbreviation": "MC",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee476"
+  },
+  "country": "Saudi Arabia",
+  "abbreviation": "SA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee47a"
+  },
+  "country": "Sierra Leone",
+  "abbreviation": "SL",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee483"
+  },
+  "country": "South Sudan",
+  "abbreviation": "SS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee488"
+  },
+  "country": "Svalbard and Jan Mayen",
+  "abbreviation": "SJ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee498"
+  },
+  "country": "Turkmenistan",
+  "abbreviation": "TM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee400"
+  },
+  "country": "French Guiana",
+  "abbreviation": "GF",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee402"
+  },
+  "country": "French Southern territories",
+  "abbreviation": "TF",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee410"
+  },
+  "country": "Guinea",
+  "abbreviation": "GN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee416"
+  },
+  "country": "Honduras",
+  "abbreviation": "HN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee419"
+  },
+  "country": "Iceland",
+  "abbreviation": "IS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee44d"
+  },
+  "country": "Nauru",
+  "abbreviation": "NR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee454"
+  },
+  "country": "Niger",
+  "abbreviation": "NE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee45d"
+  },
+  "country": "Pakistan",
+  "abbreviation": "PK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee46c"
+  },
+  "country": "Russian Federation",
+  "abbreviation": "RU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee473"
+  },
+  "country": "Samoa",
+  "abbreviation": "WS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee474"
+  },
+  "country": "San Marino",
+  "abbreviation": "SM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee49b"
+  },
+  "country": "Uganda",
+  "abbreviation": "UG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee405"
+  },
+  "country": "Georgia",
+  "abbreviation": "GE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee40d"
+  },
+  "country": "Guam",
+  "abbreviation": "GU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "country": "India",
+  "abbreviation": "IN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee420"
+  },
+  "country": "Israel",
+  "abbreviation": "IL",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee435"
+  },
+  "country": "Macao",
+  "abbreviation": "MO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee43b"
+  },
+  "country": "Mali",
+  "abbreviation": "ML",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee45b"
+  },
+  "country": "Norway",
+  "abbreviation": "NO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee460"
+  },
+  "country": "Panama",
+  "abbreviation": "PA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee46f"
+  },
+  "country": "Saint Kitts and Nevis",
+  "abbreviation": "KN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee472"
+  },
+  "country": "Saint Vincent and the Grenadines",
+  "abbreviation": "VC",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee479"
+  },
+  "country": "Seychelles",
+  "abbreviation": "SC",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a2"
+  },
+  "country": "Uzbekistan",
+  "abbreviation": "UZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4aa"
+  },
+  "country": "Yemen",
+  "abbreviation": "YE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee404"
+  },
+  "country": "Gambia",
+  "abbreviation": "GM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee403"
+  },
+  "country": "Gabon",
+  "abbreviation": "GA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee40c"
+  },
+  "country": "Guadeloupe",
+  "abbreviation": "GP",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee425"
+  },
+  "country": "Jersey",
+  "abbreviation": "JE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee43c"
+  },
+  "country": "Malta",
+  "abbreviation": "MT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee43e"
+  },
+  "country": "Martinique",
+  "abbreviation": "MQ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee443"
+  },
+  "country": "Micronesia, Federated States of",
+  "abbreviation": "FM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee44f"
+  },
+  "country": "Netherlands",
+  "abbreviation": "NL",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee451"
+  },
+  "country": "New Caledonia",
+  "abbreviation": "NC",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee47d"
+  },
+  "country": "Slovenia",
+  "abbreviation": "SI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee48c"
+  },
+  "country": "Syria",
+  "abbreviation": "SY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee40a"
+  },
+  "country": "Greenland",
+  "abbreviation": "GL",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee41f"
+  },
+  "country": "Isle of Man",
+  "abbreviation": "IM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee421"
+  },
+  "country": "Italy",
+  "abbreviation": "IT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee446"
+  },
+  "country": "Mongolia",
+  "abbreviation": "MN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee449"
+  },
+  "country": "Morocco",
+  "abbreviation": "MA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee462"
+  },
+  "country": "Paraguay",
+  "abbreviation": "PY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee470"
+  },
+  "country": "Saint Lucia",
+  "abbreviation": "LC",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee482"
+  },
+  "country": "South Korea",
+  "abbreviation": "KR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee485"
+  },
+  "country": "Sri Lanka",
+  "abbreviation": "LK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee494"
+  },
+  "country": "Tonga",
+  "abbreviation": "TO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee49e"
+  },
+  "country": "United Kingdom",
+  "abbreviation": "GB",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee49f"
+  },
+  "country": "United States",
+  "abbreviation": "US",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3fb"
+  },
+  "country": "Falkland Islands",
+  "abbreviation": "FK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3fc"
+  },
+  "country": "Faroe Islands",
+  "abbreviation": "FO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee40e"
+  },
+  "country": "Guatemala",
+  "abbreviation": "GT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee438"
+  },
+  "country": "Malawi",
+  "abbreviation": "MW",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee45c"
+  },
+  "country": "Oman",
+  "abbreviation": "OM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee46d"
+  },
+  "country": "Rwanda",
+  "abbreviation": "RW",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee497"
+  },
+  "country": "Turkey",
+  "abbreviation": "TR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a3"
+  },
+  "country": "Vanuatu",
+  "abbreviation": "VU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a4"
+  },
+  "country": "Venezuela",
+  "abbreviation": "VE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a7"
+  },
+  "country": "Virgin Islands, U.S.",
+  "abbreviation": "VI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee407"
+  },
+  "country": "Ghana",
+  "abbreviation": "GH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee40f"
+  },
+  "country": "Guernsey",
+  "abbreviation": "GG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee418"
+  },
+  "country": "Hungary",
+  "abbreviation": "HU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee431"
+  },
+  "country": "Libyan Arab Jamahiriya",
+  "abbreviation": "LY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee44b"
+  },
+  "country": "Myanmar",
+  "abbreviation": "MM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee45a"
+  },
+  "country": "Northern Mariana Islands",
+  "abbreviation": "MP",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee45f"
+  },
+  "country": "Palestine",
+  "abbreviation": "PS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee461"
+  },
+  "country": "Papua New Guinea",
+  "abbreviation": "PG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee467"
+  },
+  "country": "Portugal",
+  "abbreviation": "PT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee469"
+  },
+  "country": "Qatar",
+  "abbreviation": "QA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee480"
+  },
+  "country": "South Africa",
+  "abbreviation": "ZA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee426"
+  },
+  "country": "Jordan",
+  "abbreviation": "JO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee439"
+  },
+  "country": "Malaysia",
+  "abbreviation": "MY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee43f"
+  },
+  "country": "Mauritania",
+  "abbreviation": "MR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee440"
+  },
+  "country": "Mauritius",
+  "abbreviation": "MU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee465"
+  },
+  "country": "Pitcairn",
+  "abbreviation": "PN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee46e"
+  },
+  "country": "Saint Helena",
+  "abbreviation": "SH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee48d"
+  },
+  "country": "Tajikistan",
+  "abbreviation": "TJ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee492"
+  },
+  "country": "Togo",
+  "abbreviation": "TG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3ff"
+  },
+  "country": "France",
+  "abbreviation": "FR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee417"
+  },
+  "country": "Hong Kong",
+  "abbreviation": "HK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee441"
+  },
+  "country": "Mayotte",
+  "abbreviation": "YT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee447"
+  },
+  "country": "Montenegro",
+  "abbreviation": "ME",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee452"
+  },
+  "country": "New Zealand",
+  "abbreviation": "NZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee459"
+  },
+  "country": "Northern Ireland",
+  "abbreviation": "GB",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee46a"
+  },
+  "country": "Reunion",
+  "abbreviation": "RE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee475"
+  },
+  "country": "Sao Tome and Principe",
+  "abbreviation": "ST",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee493"
+  },
+  "country": "Tokelau",
+  "abbreviation": "TK",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a1"
+  },
+  "country": "Uruguay",
+  "abbreviation": "UY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3fe"
+  },
+  "country": "Finland",
+  "abbreviation": "FI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee427"
+  },
+  "country": "Kazakhstan",
+  "abbreviation": "KZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee433"
+  },
+  "country": "Lithuania",
+  "abbreviation": "LT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee442"
+  },
+  "country": "Mexico",
+  "abbreviation": "MX",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee455"
+  },
+  "country": "Nigeria",
+  "abbreviation": "NG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee456"
+  },
+  "country": "Niue",
+  "abbreviation": "NU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee47e"
+  },
+  "country": "Solomon Islands",
+  "abbreviation": "SB",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee47f"
+  },
+  "country": "Somalia",
+  "abbreviation": "SO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee484"
+  },
+  "country": "Spain",
+  "abbreviation": "ES",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee495"
+  },
+  "country": "Trinidad and Tobago",
+  "abbreviation": "TT",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee49d"
+  },
+  "country": "United Arab Emirates",
+  "abbreviation": "AE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a8"
+  },
+  "country": "Wallis and Futuna",
+  "abbreviation": "WF",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a9"
+  },
+  "country": "Western Sahara",
+  "abbreviation": "EH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4ac"
+  },
+  "country": "Zimbabwe",
+  "abbreviation": "ZW",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f9"
+  },
+  "country": "Estonia",
+  "abbreviation": "EE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee423"
+  },
+  "country": "Jamaica",
+  "abbreviation": "JM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee44a"
+  },
+  "country": "Mozambique",
+  "abbreviation": "MZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee464"
+  },
+  "country": "Philippines",
+  "abbreviation": "PH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee47b"
+  },
+  "country": "Singapore",
+  "abbreviation": "SG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee481"
+  },
+  "country": "South Georgia and the South Sandwich Islands",
+  "abbreviation": "GS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee48a"
+  },
+  "country": "Sweden",
+  "abbreviation": "SE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee496"
+  },
+  "country": "Tunisia",
+  "abbreviation": "TN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee499"
+  },
+  "country": "Turks and Caicos Islands",
+  "abbreviation": "TC",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3f8"
+  },
+  "country": "Eritrea",
+  "abbreviation": "ER",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee408"
+  },
+  "country": "Gibraltar",
+  "abbreviation": "GI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee412"
+  },
+  "country": "Guyana",
+  "abbreviation": "GY",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee428"
+  },
+  "country": "Kenya",
+  "abbreviation": "KE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee42c"
+  },
+  "country": "Laos",
+  "abbreviation": "LA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee444"
+  },
+  "country": "Moldova",
+  "abbreviation": "MD",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee450"
+  },
+  "country": "Netherlands Antilles",
+  "abbreviation": "AN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee45e"
+  },
+  "country": "Palau",
+  "abbreviation": "PW",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee463"
+  },
+  "country": "Peru",
+  "abbreviation": "PE",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee46b"
+  },
+  "country": "Romania",
+  "abbreviation": "RO",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee477"
+  },
+  "country": "Senegal",
+  "abbreviation": "SN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee48b"
+  },
+  "country": "Switzerland",
+  "abbreviation": "CH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee49a"
+  },
+  "country": "Tuvalu",
+  "abbreviation": "TV",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee409"
+  },
+  "country": "Greece",
+  "abbreviation": "GR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee41c"
+  },
+  "country": "Iran",
+  "abbreviation": "IR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee422"
+  },
+  "country": "Ivory Coast",
+  "abbreviation": "CI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee42e"
+  },
+  "country": "Lebanon",
+  "abbreviation": "LB",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee42f"
+  },
+  "country": "Lesotho",
+  "abbreviation": "LS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee43d"
+  },
+  "country": "Marshall Islands",
+  "abbreviation": "MH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee448"
+  },
+  "country": "Montserrat",
+  "abbreviation": "MS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee44e"
+  },
+  "country": "Nepal",
+  "abbreviation": "NP",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee453"
+  },
+  "country": "Nicaragua",
+  "abbreviation": "NI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee468"
+  },
+  "country": "Puerto Rico",
+  "abbreviation": "PR",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee48e"
+  },
+  "country": "Tanzania",
+  "abbreviation": "TZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee48f"
+  },
+  "country": "Thailand",
+  "abbreviation": "TH",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee490"
+  },
+  "country": "The Democratic Republic of Congo",
+  "abbreviation": "CD",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a0"
+  },
+  "country": "United States Minor Outlying Islands",
+  "abbreviation": "UM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee41d"
+  },
+  "country": "Iraq",
+  "abbreviation": "IQ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee3fa"
+  },
+  "country": "Ethiopia",
+  "abbreviation": "ET",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee42a"
+  },
+  "country": "Kuwait",
+  "abbreviation": "KW",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee42d"
+  },
+  "country": "Latvia",
+  "abbreviation": "LV",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee44c"
+  },
+  "country": "Namibia",
+  "abbreviation": "NA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee457"
+  },
+  "country": "Norfolk Island",
+  "abbreviation": "NF",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee458"
+  },
+  "country": "North Korea",
+  "abbreviation": "KP",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee471"
+  },
+  "country": "Saint Pierre and Miquelon",
+  "abbreviation": "PM",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee489"
+  },
+  "country": "Swaziland",
+  "abbreviation": "SZ",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee491"
+  },
+  "country": "Timor-Leste",
+  "abbreviation": "TL",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee40b"
+  },
+  "country": "Grenada",
+  "abbreviation": "GD",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee411"
+  },
+  "country": "Guinea-Bissau",
+  "abbreviation": "GW",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee41b"
+  },
+  "country": "Indonesia",
+  "abbreviation": "ID",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee42b"
+  },
+  "country": "Kyrgyzstan",
+  "abbreviation": "KG",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee432"
+  },
+  "country": "Liechtenstein",
+  "abbreviation": "LI",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee434"
+  },
+  "country": "Luxembourg",
+  "abbreviation": "LU",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee478"
+  },
+  "country": "Serbia",
+  "abbreviation": "RS",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee49c"
+  },
+  "country": "Ukraine",
+  "abbreviation": "UA",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc889cd2e41a6158a8ee4a5"
+  },
+  "country": "Vietnam",
+  "abbreviation": "VN",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:11:26.629Z"
+  }
+}]

@@ -1,0 +1,124 @@
+[{
+  "_id": {
+    "$oid": "608c08d21132e4b29f04d992"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Sales Head",
+  "code": "SALES_HEAD",
+  "createdAt": {
+    "$date": "2021-04-30T13:40:34.345Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T13:40:34.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608c08ec1132e4b29f04d993"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Zonal Manager",
+  "code": "ZONAL_MANAGER",
+  "parentId": {
+    "$oid": "608c08d21132e4b29f04d992"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T13:41:00.818Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T13:41:00.818Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608c08fd1132e4b29f04d994"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Regional Manager",
+  "code": "REGIONAL_MANAGER",
+  "parentId": {
+    "$oid": "608c08ec1132e4b29f04d993"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T13:41:17.258Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T13:41:17.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608c090f1132e4b29f04d995"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "State Manager",
+  "code": "STATE_MANAGER",
+  "parentId": {
+    "$oid": "608c08fd1132e4b29f04d994"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T13:41:35.380Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T13:41:35.380Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608c09201132e4b29f04d996"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Area Sale Manager",
+  "code": "AREA_SALE_MANAGER",
+  "parentId": {
+    "$oid": "608c090f1132e4b29f04d995"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T13:41:52.686Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T13:41:52.686Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608c09311132e4b29f04d997"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Senior Sales Executive",
+  "code": "SENIOR_SALES_EXECUTIVE",
+  "parentId": {
+    "$oid": "608c09201132e4b29f04d996"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T13:42:09.758Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T13:42:09.758Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608c098b1132e4b29f04d998"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Sales Executive",
+  "code": "SALES_EXECUTIVE",
+  "parentId": {
+    "$oid": "608c09311132e4b29f04d997"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T13:43:39.202Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T13:43:39.202Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,5897 @@
+[{
+  "_id": {
+    "$oid": "608d433941dc32f6b4a1ac6f"
+  },
+  "icon": "http://res.cloudinary.com/salescrm/image/upload/v1619870255/alkhzqlfojwylvctjpn9.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "AC SW",
+  "price": 2110,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d353041dc32f6b4a1ac29"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T12:02:01.048Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-05T10:10:50.441Z"
+  },
+  "skuNo": 1,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1008
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 990
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608d437341dc32f6b4a1ac72"
+  },
+  "icon": "http://res.cloudinary.com/salescrm/image/upload/v1619870543/blb1h8ebsxddqm1ochsg.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "AC SW",
+  "price": 2110,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d353041dc32f6b4a1ac29"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T12:02:59.897Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:56.327Z"
+  },
+  "skuNo": 2,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 973
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608d43cb41dc32f6b4a1ac76"
+  },
+  "icon": "http://res.cloudinary.com/salescrm/image/upload/v1619870660/lqb4twts5j3pispduh2m.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "AC SW",
+  "price": 2110,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d353041dc32f6b4a1ac29"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T12:04:27.522Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-08T05:58:34.898Z"
+  },
+  "skuNo": 3,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 996
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608d43f241dc32f6b4a1ac7a"
+  },
+  "icon": "http://res.cloudinary.com/salescrm/image/upload/v1619870683/w4pccqvassypo18nv9yg.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "AC SW",
+  "price": 2110,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d353041dc32f6b4a1ac29"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T12:05:06.646Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-17T10:12:02.199Z"
+  },
+  "skuNo": 4,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 981
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 998
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608d444a41dc32f6b4a1ac7d"
+  },
+  "icon": "http://res.cloudinary.com/salescrm/image/upload/v1619870758/nbofiiwuoddyoknijsjk.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell SW",
+  "price": 1520,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d34a841dc32f6b4a1ac22"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T12:06:34.484Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:18:39.418Z"
+  },
+  "skuNo": 5,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 956
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 988
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608d447441dc32f6b4a1ac80"
+  },
+  "icon": "http://res.cloudinary.com/salescrm/image/upload/v1619870806/dxwf4lzfzxai4j5mo7gs.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell Sw",
+  "price": 1520,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d34a841dc32f6b4a1ac22"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T12:07:16.746Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:56.389Z"
+  },
+  "skuNo": 6,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 996
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608d449241dc32f6b4a1ac83"
+  },
+  "icon": "http://res.cloudinary.com/salescrm/image/upload/v1619870848/obb8qqsv5wdpt32tlrwi.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell SW",
+  "price": 1520,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d34a841dc32f6b4a1ac22"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T12:07:46.611Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-26T05:40:47.698Z"
+  },
+  "skuNo": 7,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 916
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 999
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608d44b041dc32f6b4a1ac86"
+  },
+  "icon": "http://res.cloudinary.com/salescrm/image/upload/v1619870877/srzvzvstpf6dlycogqw2.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell SW",
+  "price": 1520,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d34a841dc32f6b4a1ac22"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T12:08:16.270Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-04T10:13:50.003Z"
+  },
+  "skuNo": 8,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 986
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 999
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f91c9bf4b6605f6b441d1"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620021677454_gr4lx_uZgSBiKcK.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Single SW",
+  "price": 1270,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d349041dc32f6b4a1ac21"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:01:45.423Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:18:39.553Z"
+  },
+  "skuNo": 9,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 934
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 990
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f91f3bf4b6605f6b441d6"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620021724641_20pke_ZNi5OJm7i.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Single SW",
+  "price": 1270,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d349041dc32f6b4a1ac21"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:02:27.512Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:56.569Z"
+  },
+  "skuNo": 10,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 999
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f920ebf4b6605f6b441d9"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620021753406_2krjq_zQ4of_Kzp.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Single SW",
+  "price": 1270,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d349041dc32f6b4a1ac21"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:02:54.185Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:01:37.280Z"
+  },
+  "skuNo": 11,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 835
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9249bf4b6605f6b441dc"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620021815535_te0jy_fcls2EZTR.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Single SW",
+  "price": 1270,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d349041dc32f6b4a1ac21"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:03:53.145Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-28T09:44:44.698Z"
+  },
+  "skuNo": 12,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 974
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f92bdbf4b6605f6b441df"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620021923296_d5vug_LgyGZTNa3.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW",
+  "price": 2080,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d34b841dc32f6b4a1ac23"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:05:49.920Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T13:27:35.739Z"
+  },
+  "skuNo": 13,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 661
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 908
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f92f9bf4b6605f6b441e2"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620021961957_fhf77_b4FO1lLw5.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW",
+  "price": 2080,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d34b841dc32f6b4a1ac23"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:06:49.756Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-24T05:10:52.763Z"
+  },
+  "skuNo": 14,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 986
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 968
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9319bf4b6605f6b441e5"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022024385_gsbnh_Ta6ctXA61.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW",
+  "price": 2080,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d34b841dc32f6b4a1ac23"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:07:21.575Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:15:50.081Z"
+  },
+  "skuNo": 15,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 28
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 986
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9337bf4b6605f6b441e8"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022050761_wyodu_Tu8atpkget.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW",
+  "price": 2080,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d34b841dc32f6b4a1ac23"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:07:51.772Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:12.031Z"
+  },
+  "skuNo": 16,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 819
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 983
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9376bf4b6605f6b441eb"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022095102_ellb3_4Fvb0gkBC.png",
+  "status": "deactive",
+  "isDeleted": false,
+  "description": "Dimmer",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d350c41dc32f6b4a1ac27"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:08:54.805Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-29T16:21:37.082Z"
+  },
+  "skuNo": 17,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f93c9bf4b6605f6b441ee"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022201312_pcib5_-ElWlHiNH.png",
+  "status": "deactive",
+  "isDeleted": false,
+  "description": "Dimmer",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d350c41dc32f6b4a1ac27"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:10:17.527Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-29T16:21:51.611Z"
+  },
+  "skuNo": 18,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f93e3bf4b6605f6b441f2"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022227444_7sb2c_Lf7LMohSE.png",
+  "status": "deactive",
+  "isDeleted": false,
+  "description": "Dimmer",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d350c41dc32f6b4a1ac27"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:10:43.464Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-29T16:22:05.010Z"
+  },
+  "skuNo": 19,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 998
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f93febf4b6605f6b441f5"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022255293_j41pb_ytrw-cLG2.png",
+  "status": "deactive",
+  "isDeleted": false,
+  "description": "Dimmer",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d350c41dc32f6b4a1ac27"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:11:10.548Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-29T16:22:18.450Z"
+  },
+  "skuNo": 20,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1017
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9428bf4b6605f6b441f8"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022280476_etbdk__dESMLik9.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Curtain SW",
+  "price": 2100,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d354041dc32f6b4a1ac2a"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:11:52.655Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:18:39.490Z"
+  },
+  "skuNo": 21,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 941
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 990
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f948abf4b6605f6b441fb"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022338592_r86gt_f4SXoUnQmj.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Curtain SW",
+  "price": 2100,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d354041dc32f6b4a1ac2a"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:13:30.492Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:27:47.208Z"
+  },
+  "skuNo": 22,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 996
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 998
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f94a6bf4b6605f6b441fe"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022421473_e844p_KTUbeTnFF.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Curtain SW",
+  "price": 2100,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d354041dc32f6b4a1ac2a"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:13:58.259Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T10:55:22.793Z"
+  },
+  "skuNo": 23,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 926
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 996
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f94bebf4b6605f6b44201"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022445201_zdtu8_B7JwcfEf6u.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Curtain SW",
+  "price": 2100,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d354041dc32f6b4a1ac2a"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:14:22.514Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-08T05:58:34.843Z"
+  },
+  "skuNo": 24,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 974
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 998
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9503bf4b6605f6b44204"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022495341_3a1a4_bBY1wPjPV.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW",
+  "price": 2780,
+  "weight": 210,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d355441dc32f6b4a1ac2b"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:15:31.581Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:18:39.626Z"
+  },
+  "skuNo": 25,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 866
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 965
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9518bf4b6605f6b44207"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022537443_69uua_KRV0UdC4x.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW",
+  "price": 2780,
+  "weight": 210,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d355441dc32f6b4a1ac2b"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:15:52.663Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:57.189Z"
+  },
+  "skuNo": 26,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 994
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 965
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f953bbf4b6605f6b4420a"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022561155_gt9r2_s_T9LjuzG.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW",
+  "price": 2780,
+  "weight": 210,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d355441dc32f6b4a1ac2b"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:16:27.214Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:15:50.138Z"
+  },
+  "skuNo": 27,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 515
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 998
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9562bf4b6605f6b4420d"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022605832_yzvfw_F21iSVAsu.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW",
+  "price": 2780,
+  "weight": 210,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d355441dc32f6b4a1ac2b"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:17:06.909Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:12.425Z"
+  },
+  "skuNo": 28,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 954
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f958fbf4b6605f6b44210"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022640199_thjxr_4rZho55i_.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "5 SW",
+  "price": 3410,
+  "weight": 250,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d34c841dc32f6b4a1ac24"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:17:51.627Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:18:39.752Z"
+  },
+  "skuNo": 29,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 515
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 883
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f95b8bf4b6605f6b44213"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022681277_vxhut_rDQE6tqM0.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "5 SW",
+  "price": 3410,
+  "weight": 250,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d34c841dc32f6b4a1ac24"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:18:32.806Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-24T05:10:52.707Z"
+  },
+  "skuNo": 30,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 984
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 955
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f95d8bf4b6605f6b44216"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022722757_c83o9_l-f72XbUe.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "5 SW",
+  "price": 3410,
+  "weight": 250,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d34c841dc32f6b4a1ac24"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:19:04.641Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:15:50.209Z"
+  },
+  "skuNo": 31,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 31
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 982
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9628bf4b6605f6b44219"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022798098_v956h_l1CQiOH_a.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "5 SW",
+  "price": 3410,
+  "weight": 250,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d34c841dc32f6b4a1ac24"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:20:24.712Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:01:36.963Z"
+  },
+  "skuNo": 32,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 777
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 990
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9663bf4b6605f6b4421d"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022836459_nclv2_nbhlzzGeR.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW + 1 Fan",
+  "price": 3620,
+  "weight": 250,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d34e541dc32f6b4a1ac25"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:21:23.015Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:18:39.695Z"
+  },
+  "skuNo": 33,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 949
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 947
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9676bf4b6605f6b44220"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022890456_5xdbr_6pBZIMCke.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW + 1 Fan",
+  "price": 3620,
+  "weight": 250,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d34e541dc32f6b4a1ac25"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:21:42.364Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:57.315Z"
+  },
+  "skuNo": 34,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 992
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 978
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9690bf4b6605f6b44223"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022915664_4r4ar_6nHU9TsUZ.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW + 1 Fan",
+  "price": 3620,
+  "weight": 250,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d34e541dc32f6b4a1ac25"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:22:08.318Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:15:50.264Z"
+  },
+  "skuNo": 35,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 782
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f96a6bf4b6605f6b44226"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022935892_j0t24_RwEQ4M5BO.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW + 1 Fan",
+  "price": 3620,
+  "weight": 250,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d34e541dc32f6b4a1ac25"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:22:30.371Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:22:59.052Z"
+  },
+  "skuNo": 36,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 940
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 992
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f96e7bf4b6605f6b44229"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620022980700_9zghx_iCIrVKnzM.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "7 SW",
+  "price": 3960,
+  "weight": 300,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d34fd41dc32f6b4a1ac26"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:23:35.532Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:18:39.872Z"
+  },
+  "skuNo": 37,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 714
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 931
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9702bf4b6605f6b4422c"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023026575_g1px0_0tjihqUol.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "7 SW",
+  "price": 3960,
+  "weight": 300,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d34fd41dc32f6b4a1ac26"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:24:02.415Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-14T08:05:55.529Z"
+  },
+  "skuNo": 38,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 976
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 969
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f974dbf4b6605f6b44231"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023103551_nehi5_9_kmzRoLv.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "7 SW",
+  "price": 3960,
+  "weight": 300,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d34fd41dc32f6b4a1ac26"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:25:17.172Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:15:50.318Z"
+  },
+  "skuNo": 39,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 66
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 987
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9769bf4b6605f6b44234"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023123897_46389_Ci6MBACRF.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "7 SW",
+  "price": 3960,
+  "weight": 300,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d34fd41dc32f6b4a1ac26"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:25:45.736Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:01:36.908Z"
+  },
+  "skuNo": 40,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 885
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 990
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9813bf4b6605f6b44237"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023259895_map3a_VSSPgYZPp.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "4 SW + 1 Fan",
+  "price": 4210,
+  "weight": 320,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d351c41dc32f6b4a1ac28"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:28:35.769Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T09:58:34.991Z"
+  },
+  "skuNo": 41,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 636
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 908
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9856bf4b6605f6b4423a"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023326875_4ie6q_da3XlWafE.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "4 SW + 1 Fan",
+  "price": 4210,
+  "weight": 320,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d351c41dc32f6b4a1ac28"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:29:42.241Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T05:55:19.210Z"
+  },
+  "skuNo": 42,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 965
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 945
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f98dfbf4b6605f6b4423d"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023502456_xbh52_XKKr-Nafy.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "4 SW + 1 Fan",
+  "price": 4210,
+  "weight": 320,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d351c41dc32f6b4a1ac28"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:31:59.763Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:15:50.375Z"
+  },
+  "skuNo": 43,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 21
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 989
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9904bf4b6605f6b44240"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023541284_0sbff_MHZJP82fn.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "4 SW + 1 Fan",
+  "price": 4210,
+  "weight": 320,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d351c41dc32f6b4a1ac28"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:32:36.163Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:01:36.844Z"
+  },
+  "skuNo": 44,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 805
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 988
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9985bf4b6605f6b44244"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023635936_7dcnr_dmu4Oi-wG.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell SW",
+  "price": 2410,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d34a841dc32f6b4a1ac22"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:34:45.046Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:12:09.964Z"
+  },
+  "skuNo": 45,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 942
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f999fbf4b6605f6b44247"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023695635_8n3ut_cUpKA1Ncb.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell SW",
+  "price": 2410,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d34a841dc32f6b4a1ac22"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:35:11.194Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:10.855Z"
+  },
+  "skuNo": 46,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 990
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9a65bf4b6605f6b4424a"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620023758403_kmfo6_2aIQewmaj.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "1 SW",
+  "price": 2480,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d349041dc32f6b4a1ac21"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:38:29.283Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:56.633Z"
+  },
+  "skuNo": 47,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 932
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9c00bf4b6605f6b4424e"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620024192861_sxqbt_6iS5TUR6J.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "single sw",
+  "price": 2480,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d349041dc32f6b4a1ac21"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:45:20.685Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-21T10:25:24.724Z"
+  },
+  "skuNo": 48,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 990
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9c48bf4b6605f6b44251"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620024343089_ip671_b3OmBcZGo.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 sw",
+  "price": 3310,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d34b841dc32f6b4a1ac23"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:46:32.231Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:12:10.038Z"
+  },
+  "skuNo": 49,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 738
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 982
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9c80bf4b6605f6b44254"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620024406935_9uw9f_W-wGXn61q.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 sw",
+  "price": 3310,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d34b841dc32f6b4a1ac23"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:47:28.690Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:10.980Z"
+  },
+  "skuNo": 50,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 918
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 999
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9cfdbf4b6605f6b44257"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620024499517_4xu6z_ZYHd8uN8M.png",
+  "status": "deactive",
+  "isDeleted": false,
+  "description": "dimmer sw",
+  "price": 4560,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d350c41dc32f6b4a1ac27"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:49:33.433Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-29T16:32:41.457Z"
+  },
+  "skuNo": 51,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 991
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9d41bf4b6605f6b4425a"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620024598491_tn75u_nXqG-S_4J.png",
+  "status": "deactive",
+  "isDeleted": false,
+  "description": "dimmer sw",
+  "price": 4560,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d350c41dc32f6b4a1ac27"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:50:41.183Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-29T16:32:58.436Z"
+  },
+  "skuNo": 52,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9d8dbf4b6605f6b4425d"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620024654765_jsv15_Oh154t1SS.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "curtain sw",
+  "price": 3340,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d354041dc32f6b4a1ac2a"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:51:57.431Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T13:45:43.978Z"
+  },
+  "skuNo": 53,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 909
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9debbf4b6605f6b44260"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620024760277_wkx50_OiQjyIVeA.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "CURTAIN SW",
+  "price": 3340,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d354041dc32f6b4a1ac2a"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:53:31.151Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-21T10:25:24.789Z"
+  },
+  "skuNo": 54,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 986
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9ebebf4b6605f6b44263"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620024925154_timhp_6pG785g0L.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW",
+  "price": 3940,
+  "weight": 420,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d355441dc32f6b4a1ac2b"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:57:02.386Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:12:10.098Z"
+  },
+  "skuNo": 55,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 843
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9f19bf4b6605f6b44266"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025052216_92029_dHrD0J2XV.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW",
+  "price": 3940,
+  "weight": 420,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d355441dc32f6b4a1ac2b"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T06:58:33.061Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:10.923Z"
+  },
+  "skuNo": 56,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 975
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608f9f73bf4b6605f6b44269"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025139764_ye0hl_aJS1mkvU1.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "5 SW",
+  "price": 4820,
+  "weight": 510,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d34c841dc32f6b4a1ac24"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:00:03.098Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:12:10.156Z"
+  },
+  "skuNo": 57,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 587
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 990
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa042bf4b6605f6b4426c"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025218709_h6mzm_gCxZsBBvJ.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "5 SW",
+  "price": 4820,
+  "weight": 510,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d34c841dc32f6b4a1ac24"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:03:30.604Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:10.718Z"
+  },
+  "skuNo": 58,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 936
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa099bf4b6605f6b4426f"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025438095_bx4sq_M2O9IbAXU.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2SW + 1 FAN",
+  "price": 5280,
+  "weight": 520,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d34e541dc32f6b4a1ac25"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:04:57.148Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:57.370Z"
+  },
+  "skuNo": 59,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 903
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 990
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa0e9bf4b6605f6b44272"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025512849_19mka_80PAj6Dt7.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2SW + 1 FAN",
+  "price": 5280,
+  "weight": 520,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d34e541dc32f6b4a1ac25"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:06:17.411Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:11.037Z"
+  },
+  "skuNo": 60,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 963
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa154bf4b6605f6b44275"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025593802_j7pn7_jm8261nob.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "7 SW",
+  "price": 6370,
+  "weight": 720,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d34fd41dc32f6b4a1ac26"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:08:04.325Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:12:10.266Z"
+  },
+  "skuNo": 61,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 418
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 975
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa18ebf4b6605f6b44278"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025692419_2zr0s_cPxfLheoz.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "7 SW",
+  "price": 6370,
+  "weight": 720,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d34fd41dc32f6b4a1ac26"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:09:02.111Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:10.660Z"
+  },
+  "skuNo": 62,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 907
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa1d6bf4b6605f6b4427b"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025757145_47hq2_ibyiZDNQL.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "4SW + 1FAN",
+  "price": 6760,
+  "weight": 740,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d351c41dc32f6b4a1ac28"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:10:14.994Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:12:10.210Z"
+  },
+  "skuNo": 63,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 452
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 976
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa20fbf4b6605f6b4427e"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620025825779_cw92z_C2usN4IV-.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "4SW + 1FAN",
+  "price": 6760,
+  "weight": 740,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d351c41dc32f6b4a1ac28"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:11:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:11.105Z"
+  },
+  "skuNo": 64,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 910
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa5c9bf4b6605f6b44282"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620026799158_ltkmp_F9Tl3qTTb.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Plug",
+  "price": 900,
+  "weight": 260,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d370641dc32f6b4a1ac30"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:27:05.813Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:04:34.254Z"
+  },
+  "skuNo": 65,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 42
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 966
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa607bf4b6605f6b44286"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620026841080_jet67_xhobda-fM.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Plug",
+  "price": 900,
+  "weight": 260,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d370641dc32f6b4a1ac30"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:28:07.524Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:10.785Z"
+  },
+  "skuNo": 66,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 807
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 989
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa64dbf4b6605f6b44289"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640929722730_h3r3r_6Qkmcihc9.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "9 SW",
+  "price": 5080,
+  "weight": 360,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d357641dc32f6b4a1ac2d"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:29:17.147Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T13:27:35.898Z"
+  },
+  "skuNo": 67,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 969
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 972
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa686bf4b6605f6b4428e"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640929754063_4gal5_-qD_0GvaA.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "9 SW",
+  "price": 5080,
+  "weight": 360,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d357641dc32f6b4a1ac2d"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:30:14.601Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:01:37.159Z"
+  },
+  "skuNo": 68,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 878
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa739bf4b6605f6b44292"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620027154560_ifw5g_qI1zo4fxS.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "6 SW + 1 Fan",
+  "price": 5330,
+  "weight": 400,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d35aa41dc32f6b4a1ac2e"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:33:13.994Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:57.772Z"
+  },
+  "skuNo": 69,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 991
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 986
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa759bf4b6605f6b44295"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620027202882_0983e_meYAFDxJ-.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "6 SW + 1 Fan",
+  "price": 5330,
+  "weight": 400,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d35aa41dc32f6b4a1ac2e"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:33:45.610Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:22:59.121Z"
+  },
+  "skuNo": 70,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 943
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 996
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa781bf4b6605f6b44299"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640930234945_3nk7i_25wjcHbER.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW + 2 Fans",
+  "price": 5590,
+  "weight": 430,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d356641dc32f6b4a1ac2c"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:34:25.593Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T11:56:38.308Z"
+  },
+  "skuNo": 71,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 981
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa7b4bf4b6605f6b4429c"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640930247212_08wco_5YzZLQoos.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW + 2 Fans",
+  "price": 5590,
+  "weight": 430,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d356641dc32f6b4a1ac2c"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:35:16.140Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:13.398Z"
+  },
+  "skuNo": 72,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 965
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa85ebf4b6605f6b4429f"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620027465381_es4iy_d2C0DpQr4.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Remote",
+  "price": 690,
+  "weight": 60,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "608d394e41dc32f6b4a1ac34"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:38:06.505Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:12:10.377Z"
+  },
+  "skuNo": 73,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 78
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 917
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa8f9bf4b6605f6b442a4"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620027544897_9clj3_K0effNSFu.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Power Protector",
+  "price": 25,
+  "weight": 10,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "608d392b41dc32f6b4a1ac32"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:40:41.399Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-25T12:42:57.861Z"
+  },
+  "skuNo": 74,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 619
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 980
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa91ebf4b6605f6b442a7"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620027648872_ye8pp_zHUK4BQw6.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Wifi-Chip",
+  "price": 3560,
+  "weight": 10,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "608d38e641dc32f6b4a1ac31"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:41:18.665Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:12:10.322Z"
+  },
+  "skuNo": 75,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 61
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 916
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608fa99bbf4b6605f6b442aa"
+  },
+  "icon": "https://ik.imagekit.io/whitelion/1620027687556_zsz3d_3cuk2dQGi.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "High Load",
+  "price": 640,
+  "weight": 50,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "608d394441dc32f6b4a1ac33"
+  },
+  "createdAt": {
+    "$date": "2021-05-03T07:43:23.336Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:13:40.726Z"
+  },
+  "skuNo": 76,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 50
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 861
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "609388823fa14d2364d1a968"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640932691842_ucpfj_pA0sb-37uWk.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "9 SW",
+  "price": 5080,
+  "weight": 360,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d357641dc32f6b4a1ac2d"
+  },
+  "createdAt": {
+    "$date": "2021-05-06T06:11:14.971Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:43:12.282Z"
+  },
+  "skuNo": 77,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 995
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 992
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60938c403fa14d2364d1a974"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640932711859_sdvpy_G304lVKa7.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "9 SW",
+  "price": 5080,
+  "weight": 360,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d357641dc32f6b4a1ac2d"
+  },
+  "createdAt": {
+    "$date": "2021-05-06T06:27:12.519Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:22:59.187Z"
+  },
+  "skuNo": 78,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 975
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 996
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60938ccb3fa14d2364d1a97f"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640930010469_f68sq_ZwniMKwNa.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "6 SW +  1 Fan",
+  "price": 5330,
+  "weight": 400,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "608d35aa41dc32f6b4a1ac2e"
+  },
+  "createdAt": {
+    "$date": "2021-05-06T06:29:31.306Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T11:56:38.724Z"
+  },
+  "skuNo": 79,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 921
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 981
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60938d183fa14d2364d1a98a"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640930029675_aqs2z_haJ-QUfc1.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "6 SW + 1 Fan",
+  "price": 5330,
+  "weight": 400,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "608d35aa41dc32f6b4a1ac2e"
+  },
+  "createdAt": {
+    "$date": "2021-05-06T06:30:48.096Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T09:56:13.343Z"
+  },
+  "skuNo": 80,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 812
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 996
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60938ded3fa14d2364d1a995"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640932829717_2v171_t72iwCofh.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW + 2 Fans",
+  "price": 5590,
+  "weight": 430,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "608d356641dc32f6b4a1ac2c"
+  },
+  "createdAt": {
+    "$date": "2021-05-06T06:34:21.702Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-31T06:40:33.221Z"
+  },
+  "skuNo": 81,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 999
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 998
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60938e3f3fa14d2364d1a9a0"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640932851398_4yh44_grCgld65O.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3 SW + 2 Fans",
+  "price": 5590,
+  "weight": 430,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "608d356641dc32f6b4a1ac2c"
+  },
+  "createdAt": {
+    "$date": "2021-05-06T06:35:43.273Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T12:22:59.258Z"
+  },
+  "skuNo": 82,
+  "__v": 0,
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 981
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60b9fcc40f7da3f9eec4303f"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622801582844_7nzgu_kK_o3q_a6.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Demo Bag",
+  "price": 17500,
+  "weight": 3980,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "60b9faa50f7da3f9eec43022"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T10:13:24.574Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-16T14:34:21.758Z"
+  },
+  "skuNo": 83,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba245369b0c912936988ca"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622811625496_cpy74_uNrjNC9x9.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2 SW",
+  "price": 3649,
+  "weight": 500,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "60ba22cb69b0c91293698854"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 999
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T13:02:11.337Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-18T06:09:35.248Z"
+  },
+  "skuNo": 84,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba24dc69b0c9129369892f"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622811775177_7qrvr_dhI3M37Bc.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "4 SW",
+  "price": 7297,
+  "weight": 500,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "60ba22de69b0c9129369885d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 996
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T13:04:28.267Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-24T09:49:59.723Z"
+  },
+  "skuNo": 85,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba251569b0c9129369897a"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622811880359_je6gi_cKCK18KIQ.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "5 SW",
+  "price": 9122,
+  "weight": 500,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "60ba22e669b0c91293698863"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 998
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T13:05:25.844Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-18T06:09:35.375Z"
+  },
+  "skuNo": 86,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba254a69b0c912936989c1"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622811931719_ho60a_-8XNkh1J3C.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "6 SW",
+  "price": 10946,
+  "weight": 500,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "60ba22f769b0c91293698864"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 997
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T13:06:18.579Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-30T12:52:43.862Z"
+  },
+  "skuNo": 87,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba257a69b0c91293698a07"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622811985049_33pll_WK-HajVrJ.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "8 Sw",
+  "price": 14600,
+  "weight": 500,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "60ba230269b0c91293698865"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 996
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T13:07:06.651Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-23T12:57:10.164Z"
+  },
+  "skuNo": 88,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba25cd69b0c91293698a51"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622812034149_1uwbp_W6C_SZ5YG.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "10 SW",
+  "price": 18245,
+  "weight": 500,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "60ba203169b0c9129369866c"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 996
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T13:08:29.803Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-18T06:09:35.066Z"
+  },
+  "skuNo": 89,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba262569b0c91293698aa6"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622812151082_u8w17_NQVkxq2uL.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "14 SW",
+  "price": 25550,
+  "weight": 500,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "60ba203e69b0c91293698675"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 996
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T13:09:57.454Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-23T12:57:29.219Z"
+  },
+  "skuNo": 90,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba265669b0c91293698ae5"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1622812207856_nwdw1_SujB3TVKf.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "16 SW",
+  "price": 29190,
+  "weight": 500,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "60ba22bb69b0c91293698853"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 999
+    },
+    {
+      "_id": {
+        "$oid": "60ca0bed646246bb6cbeed37"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-04T13:10:46.653Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-18T06:09:35.127Z"
+  },
+  "skuNo": 91,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5827ea3539528f374f1e6"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1624605087252_61o4f_tGpDdGWw5.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "60d57e29a3539528f374f1df"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60d5827ea3539528f374f1e7"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "60d5827ea3539528f374f1e8"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 991
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-25T07:15:10.247Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:57.123Z"
+  },
+  "skuNo": 92,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58300a3539528f374f22c"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1624605367336_ahb4q_LEWwU-y4s.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "60d57e29a3539528f374f1df"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60d58300a3539528f374f22d"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "60d58300a3539528f374f22e"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-25T07:17:20.767Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-05T09:48:17.223Z"
+  },
+  "skuNo": 93,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58336a3539528f374f272"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1624605463192_4db48_rdXsGv-MCW.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "60d57e29a3539528f374f1df"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60d58336a3539528f374f273"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 986
+    },
+    {
+      "_id": {
+        "$oid": "60d58336a3539528f374f274"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-25T07:18:14.998Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-05T09:48:21.384Z"
+  },
+  "skuNo": 94,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58370a3539528f374f2b8"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1624605520630_lwv6e_XBLM9qBhWD.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "60d57e29a3539528f374f1df"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60d58370a3539528f374f2b9"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1
+    },
+    {
+      "_id": {
+        "$oid": "60d58370a3539528f374f2ba"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-25T07:19:12.337Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-05T09:48:28.049Z"
+  },
+  "skuNo": 95,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58401a3539528f374f2fe"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1624605585817_h1zrm_WiZYB5-sf.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 4560,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "60d57e29a3539528f374f1df"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60d58401a3539528f374f2ff"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 96
+    },
+    {
+      "_id": {
+        "$oid": "60d58401a3539528f374f300"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-25T07:21:37.985Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:45:43.075Z"
+  },
+  "skuNo": 96,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58439a3539528f374f344"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1624605722140_0rjpp_as9qV-WlN.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 4560,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "60d57e29a3539528f374f1df"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60d58439a3539528f374f345"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "60d58439a3539528f374f346"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-25T07:22:33.335Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:45:47.810Z"
+  },
+  "skuNo": 97,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc1095a3539528f374f749"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1625034862050_dkhya_ZLJ1MPT1Q.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "60dc0619a3539528f374f730"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dc1095a3539528f374f74a"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 35
+    },
+    {
+      "_id": {
+        "$oid": "60dc1095a3539528f374f74b"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 980
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-30T06:35:01.491Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:57.065Z"
+  },
+  "skuNo": 98,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc10c4a3539528f374f78f"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1625034922337_20698_zdEfbgS-j.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "60dc0619a3539528f374f730"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dc10c4a3539528f374f790"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "60dc10c4a3539528f374f791"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-30T06:35:48.123Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:45:54.266Z"
+  },
+  "skuNo": 99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc10f2a3539528f374f7d5"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1625034971443_ditq7_1GckCLJfI.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "60dc0619a3539528f374f730"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dc10f2a3539528f374f7d6"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 966
+    },
+    {
+      "_id": {
+        "$oid": "60dc10f2a3539528f374f7d7"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-30T06:36:34.774Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-08T07:05:40.381Z"
+  },
+  "skuNo": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc112fa3539528f374f81b"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1625035031614_8yitl_nCHth-3xs.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 2860,
+  "weight": 190,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "60dc0619a3539528f374f730"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dc112fa3539528f374f81c"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 6
+    },
+    {
+      "_id": {
+        "$oid": "60dc112fa3539528f374f81d"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-30T06:37:35.190Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:46:10.344Z"
+  },
+  "skuNo": 101,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc119ca3539528f374f861"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1625035089055_xc23o_CsUimhlqC.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 4560,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "60dc0619a3539528f374f730"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dc119ca3539528f374f862"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 8
+    },
+    {
+      "_id": {
+        "$oid": "60dc119ca3539528f374f863"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-30T06:39:24.255Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:56.957Z"
+  },
+  "skuNo": 102,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc11e8a3539528f374f8a7"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1625035194595_nnetw_BzWggBBzy.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Dimmer SW",
+  "price": 4560,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "60dc0619a3539528f374f730"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dc11e8a3539528f374f8a8"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 3
+    },
+    {
+      "_id": {
+        "$oid": "60dc11e8a3539528f374f8a9"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-30T06:40:40.314Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:46:35.423Z"
+  },
+  "skuNo": 103,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df0b25a3539528f375b1ce"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640929779108_iaqc8_LgzfQzDfT.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "9 SW",
+  "price": 7990,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d357641dc32f6b4a1ac2d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60df0b25a3539528f375b1cf"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 5
+    },
+    {
+      "_id": {
+        "$oid": "60df0b25a3539528f375b1d0"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 993
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-02T12:48:37.966Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T13:45:43.911Z"
+  },
+  "skuNo": 104,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60df0b8fa3539528f375b214"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640930056976_7jabe_2WyduFCqS5E.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "6SW + 1FAN",
+  "price": 8490,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d35aa41dc32f6b4a1ac2e"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60df0b8fa3539528f375b215"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 12
+    },
+    {
+      "_id": {
+        "$oid": "60df0b8fa3539528f375b216"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 995
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-02T12:50:23.123Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-31T10:15:50.431Z"
+  },
+  "skuNo": 105,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dfff40a3539528f375b43c"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640930178056_gut1q_MBsXN2V50Y.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3SW + 2FAN",
+  "price": 8910,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d356641dc32f6b4a1ac2c"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dfff40a3539528f375b43d"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 5
+    },
+    {
+      "_id": {
+        "$oid": "60dfff40a3539528f375b43e"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-03T06:10:08.224Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-24T09:30:26.794Z"
+  },
+  "skuNo": 106,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dfff96a3539528f375b482"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640929910785_glrht_zq_gGNCDC.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "9 SW",
+  "price": 7990,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d357641dc32f6b4a1ac2d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dfff96a3539528f375b483"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 6
+    },
+    {
+      "_id": {
+        "$oid": "60dfff96a3539528f375b484"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-03T06:11:34.387Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:46:47.666Z"
+  },
+  "skuNo": 107,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dfffeda3539528f375b4c8"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640930080758_o9uhd_8TqrDL2ib.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "6SW + 1FAN",
+  "price": 8490,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d35aa41dc32f6b4a1ac2e"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60dfffeda3539528f375b4c9"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1
+    },
+    {
+      "_id": {
+        "$oid": "60dfffeda3539528f375b4ca"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-03T06:13:01.307Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:46:52.393Z"
+  },
+  "skuNo": 108,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e00023a3539528f375b50e"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1640930153110_nt5lx_6RI3PdgDHT.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3SW + 2FAN",
+  "price": 8910,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "608d356641dc32f6b4a1ac2c"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60e00023a3539528f375b50f"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 4
+    },
+    {
+      "_id": {
+        "$oid": "60e00023a3539528f375b510"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-03T06:13:55.462Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:46:58.570Z"
+  },
+  "skuNo": 109,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eee4c3a3539528f375cded"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1627034977391_vhyw2_TyCM6YUQ-d.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Air Sensor",
+  "price": 2160,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "60eed7bfa3539528f375cde3"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60eee4c3a3539528f375cdee"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 936
+    },
+    {
+      "_id": {
+        "$oid": "60eee4c3a3539528f375cdef"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 31
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-14T13:21:07.687Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T13:27:36.174Z"
+  },
+  "skuNo": 110,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6c4e4a3539528f375d387"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1626785550679_rrjg8_Fx7GwvDa-.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Air Sensor",
+  "price": 1920,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "60eed7dba3539528f375cde5"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60f6c4e4a3539528f375d388"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 933
+    },
+    {
+      "_id": {
+        "$oid": "60f6c4e4a3539528f375d389"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 4
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-20T12:43:16.821Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T13:27:36.344Z"
+  },
+  "skuNo": 111,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6c766a3539528f375d3d9"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1627035822381_bnltz_34xCPWreEB.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Air Sensor",
+  "price": 1980,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "60eed7cea3539528f375cde4"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60f6c766a3539528f375d3da"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 983
+    },
+    {
+      "_id": {
+        "$oid": "60f6c766a3539528f375d3db"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 31
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-20T12:53:58.576Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-29T13:27:36.271Z"
+  },
+  "skuNo": 112,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6c7c3a3539528f375d420"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1627035901577_pkkbh_kWMpNnRJX0N.png",
+  "status": "deactive",
+  "isDeleted": false,
+  "description": "TV Sensor",
+  "price": 2360,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "60eed788a3539528f375cde1"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60f6c7c3a3539528f375d421"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "60f6c7c3a3539528f375d422"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-20T12:55:31.243Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-05T08:20:32.441Z"
+  },
+  "skuNo": 113,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f6c863a3539528f375d467"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1627036044754_rle6q_j5sUi3wjXu.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "TV Sensor",
+  "price": 4200,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "60eed79fa3539528f375cde2"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "60f6c863a3539528f375d468"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "60f6c863a3539528f375d469"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 4
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-07-20T12:58:11.349Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-23T13:42:48.018Z"
+  },
+  "skuNo": 114,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6108f9e0de413be5fd206a43"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1627978070998_yl9uu_qEUX6pRRHrY.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Tv Sensor",
+  "price": 2360,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "productType": {
+    "$oid": "60faa0d7de413be5fd2060ca"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "6108f9e0de413be5fd206a44"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 993
+    },
+    {
+      "_id": {
+        "$oid": "6108f9e0de413be5fd206a45"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 7
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-03T08:10:08.193Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-08T10:18:28.891Z"
+  },
+  "skuNo": 115,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610b6b86de413be5fd206d34"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1628138190252_njm2i_9Nzp0xOxP.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Plug",
+  "price": 1500,
+  "weight": 260,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "610b6a03de413be5fd206d32"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "610b6b86de413be5fd206d35"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 990
+    },
+    {
+      "_id": {
+        "$oid": "610b6b86de413be5fd206d36"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 5
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-05T04:39:34.674Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T06:03:56.895Z"
+  },
+  "skuNo": 116,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610b6c07de413be5fd206d7b"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1628138439944_prc6m_Dw8CYj6ZX.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Plug",
+  "price": 1500,
+  "weight": 260,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "610b6a03de413be5fd206d32"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "610b6c07de413be5fd206d7c"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    },
+    {
+      "_id": {
+        "$oid": "610b6c07de413be5fd206d7d"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-05T04:41:43.978Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:47:11.658Z"
+  },
+  "skuNo": 117,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612f4175ebd3212b61e36429"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1630486677880_hcl28_JWTSO2-pU.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Mocha Socket",
+  "price": 1770,
+  "weight": 200,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "612f3d23ebd3212b61e3640d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "612f4175ebd3212b61e3642a"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "612f4175ebd3212b61e3642b"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-01T09:01:41.247Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T12:09:27.064Z"
+  },
+  "skuNo": 118,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617139338548fd4030b5f979"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634813133591_goanu_XSVj9vzsO.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2Sw + DND + Laundry + Cleaning",
+  "price": 3250,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "617120ccb998a6d4eb99e65d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "617139338548fd4030b5f97a"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "617139338548fd4030b5f97b"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 999
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T09:56:03.940Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-08T06:05:59.890Z"
+  },
+  "skuNo": 119,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617139e98548fd4030b5fbad"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634810232733_t45eq_wfxzrdB_y47.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2Sw + DND + Laundry + Cleaning",
+  "price": 3250,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "617120ccb998a6d4eb99e65d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "617139e98548fd4030b5fbae"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "617139e98548fd4030b5fbaf"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T09:59:05.088Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:47:23.095Z"
+  },
+  "skuNo": 120,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61713a758548fd4030b5fe29"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634813196949_8q3l2_7NDOpqRKB.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2Sw + DND + Laundry + Cleaning",
+  "price": 3250,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "617120ccb998a6d4eb99e65d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "61713a758548fd4030b5fe2a"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "61713a758548fd4030b5fe2b"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T10:01:25.796Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:47:30.596Z"
+  },
+  "skuNo": 121,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61713aea8548fd4030b5fff5"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634813218101_upubv_LG0foTNCWL.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2Sw + DND + Laundry + Cleaning",
+  "price": 3250,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "617120ccb998a6d4eb99e65d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "61713aea8548fd4030b5fff6"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "61713aea8548fd4030b5fff7"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T10:03:22.303Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:47:36.112Z"
+  },
+  "skuNo": 122,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61713b398548fd4030b6013f"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634810622837_ffhz1_SiykXven0MF.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2Sw + DND + Laundry + Cleaning",
+  "price": 4875,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "617120ccb998a6d4eb99e65d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "61713b398548fd4030b60140"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "61713b398548fd4030b60141"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T10:04:41.200Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:47:41.546Z"
+  },
+  "skuNo": 123,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617140c98548fd4030b6098c"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634811878684_jfmde_xZ9Edo6TUMAF.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "2Sw + DND + Laundry + Cleaning",
+  "price": 4875,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "productType": {
+    "$oid": "617120ccb998a6d4eb99e65d"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "617140c98548fd4030b6098d"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "617140c98548fd4030b6098e"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T10:28:25.593Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:47:46.390Z"
+  },
+  "skuNo": 124,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617142588548fd4030b60ce9"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634813314820_wvamy_On4612xVw.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell + DND + Laundry + Cleaning",
+  "price": 3450,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "productType": {
+    "$oid": "617120adb998a6d4eb99e644"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "617142588548fd4030b60cea"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "617142588548fd4030b60ceb"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 999
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T10:35:04.574Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-08T06:05:59.956Z"
+  },
+  "skuNo": 125,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617142a98548fd4030b60e93"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634813334732_ph10y_pCgNYBUlyBOZ.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell + DND + Laundry + Cleaning",
+  "price": 3450,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "productType": {
+    "$oid": "617120adb998a6d4eb99e644"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "617142a98548fd4030b60e94"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "617142a98548fd4030b60e95"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T10:36:25.566Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:47:51.616Z"
+  },
+  "skuNo": 126,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617143118548fd4030b6115b"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634813370812_quwnx_yM9binWy9.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell + DND + Laundry + Cleaning",
+  "price": 3450,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "productType": {
+    "$oid": "617120adb998a6d4eb99e644"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "617143118548fd4030b6115c"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "617143118548fd4030b6115d"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T10:38:09.117Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:47:57.588Z"
+  },
+  "skuNo": 127,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617143868548fd4030b61442"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1634813390633_fe2js_R6icwVAzu6r.jpeg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Bell + DND + Laundry + Cleaning",
+  "price": 3450,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "productType": {
+    "$oid": "617120adb998a6d4eb99e644"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "617143868548fd4030b61443"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "617143868548fd4030b61444"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 1000
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-21T10:40:06.313Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-03T05:48:02.774Z"
+  },
+  "skuNo": 128,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d7be6c989b4d07da425910"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1641528689619_4nbhh_3jZxCH3dJ.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "1-SW",
+  "price": 1824,
+  "weight": 100,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "61d7bd3c989b4d07da425759"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "61d7be6c989b4d07da425911"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 1
+    },
+    {
+      "_id": {
+        "$oid": "61d7be6c989b4d07da425912"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-07T04:15:40.152Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T12:09:26.992Z"
+  },
+  "skuNo": 129,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621cc850989b4d07da515e9a"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1646053164919_lck8b_J9BXMuQvW1.png",
+  "status": "active",
+  "isDeleted": false,
+  "description": "3-Sw",
+  "price": 5473,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "621cc70e989b4d07da515cf4"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "621cc850989b4d07da515e9b"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "621cc850989b4d07da515e9c"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-02-28T13:04:16.360Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-28T13:04:16.360Z"
+  },
+  "skuNo": 130,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6223354e989b4d07da52ea38"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1646474494522_uf8hm__DRRLiuLMiU.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "AC SW",
+  "price": 3020,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "productType": {
+    "$oid": "608d353041dc32f6b4a1ac29"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "6223354e989b4d07da52ea39"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "6223354e989b4d07da52ea3a"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-03-05T10:02:54.505Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T10:02:54.505Z"
+  },
+  "skuNo": 131,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623c69dc989b4d07da566e76"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1648126116038_aluhw_KBhp8O66E5.jpg",
+  "status": "active",
+  "isDeleted": false,
+  "description": "1 Sw",
+  "price": 750,
+  "weight": 350,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "623c67cd989b4d07da566937"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "623c69dc989b4d07da566e77"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "623c69dc989b4d07da566e78"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-03-24T12:53:48.203Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T12:09:26.924Z"
+  },
+  "skuNo": 132,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624198ae989b4d07da57c1a6"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1648466000546_pd4sg_rOvq1NhRa.webp",
+  "status": "active",
+  "isDeleted": false,
+  "description": "Telejack Socket",
+  "price": 1770,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "62419218989b4d07da57b76e"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "624198ae989b4d07da57c1a7"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "624198ae989b4d07da57c1a8"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-03-28T11:14:54.431Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-28T11:14:54.431Z"
+  },
+  "skuNo": 133,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62419924989b4d07da57c460"
+  },
+  "icon": "https://ik.imagekit.io/salescrm/1648466129685_mrzuw_0-fQNAw-H.webp",
+  "status": "active",
+  "isDeleted": false,
+  "description": "USB Socket",
+  "price": 1770,
+  "weight": 330,
+  "productBrand": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "productType": {
+    "$oid": "62419231989b4d07da57b778"
+  },
+  "stockistStock": [
+    {
+      "_id": {
+        "$oid": "62419924989b4d07da57c461"
+      },
+      "stockistId": {
+        "$oid": "6090cdac8dac3d8104745bd3"
+      },
+      "stock": 0
+    },
+    {
+      "_id": {
+        "$oid": "62419924989b4d07da57c462"
+      },
+      "stockistId": {
+        "$oid": "60ae32d0044f8df824579647"
+      },
+      "stock": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-03-28T11:16:52.473Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-28T11:16:52.473Z"
+  },
+  "skuNo": 134,
+  "__v": 0
+}]

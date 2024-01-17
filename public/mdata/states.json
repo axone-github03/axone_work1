@@ -1,0 +1,505 @@
+[{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4bd"
+  },
+  "code": "JK",
+  "name": "Jammu and Kashmir",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b0"
+  },
+  "code": "DD",
+  "name": "Daman and Diu",
+  "subdivision": "Union territory",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b6"
+  },
+  "code": "AS",
+  "name": "Assam",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c2"
+  },
+  "code": "MH",
+  "name": "Maharashtra",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c5"
+  },
+  "code": "MZ",
+  "name": "Mizoram",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4ce"
+  },
+  "code": "UP",
+  "name": "Uttar Pradesh",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4cf"
+  },
+  "code": "UT",
+  "name": "Uttarakhand",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b8"
+  },
+  "code": "CT",
+  "name": "Chhattisgarh",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4ba"
+  },
+  "code": "GJ",
+  "name": "Gujarat",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c8"
+  },
+  "code": "PB",
+  "name": "Punjab",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b3"
+  },
+  "code": "PY",
+  "name": "Puducherry",
+  "subdivision": "Union territory",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4be"
+  },
+  "code": "JH",
+  "name": "Jharkhand",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4bf"
+  },
+  "code": "KA",
+  "name": "Karnataka",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4cb"
+  },
+  "code": "TN",
+  "name": "Tamil Nadu",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c0"
+  },
+  "code": "KL",
+  "name": "Kerala",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c1"
+  },
+  "code": "MP",
+  "name": "Madhya Pradesh",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4ae"
+  },
+  "code": "CH",
+  "name": "Chandigarh",
+  "subdivision": "Union territory",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b7"
+  },
+  "code": "BR",
+  "name": "Bihar",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4bc"
+  },
+  "code": "HP",
+  "name": "Himachal Pradesh",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4ad"
+  },
+  "code": "AN",
+  "name": "Andaman and Nicobar Islands",
+  "subdivision": "Union territory",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c3"
+  },
+  "code": "MN",
+  "name": "Manipur",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4ca"
+  },
+  "code": "SK",
+  "name": "Sikkim",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4bb"
+  },
+  "code": "HR",
+  "name": "Haryana",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c7"
+  },
+  "code": "OR",
+  "name": "Odisha",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b1"
+  },
+  "code": "DL",
+  "name": "Delhi",
+  "subdivision": "Union territory",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4cc"
+  },
+  "code": "TG",
+  "name": "Telangana",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4d0"
+  },
+  "code": "WB",
+  "name": "West Bengal",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c4"
+  },
+  "code": "ML",
+  "name": "Meghalaya",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c6"
+  },
+  "code": "NL",
+  "name": "Nagaland",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4af"
+  },
+  "code": "DN",
+  "name": "Dadra and Nagar Haveli",
+  "subdivision": "Union territory",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b5"
+  },
+  "code": "AR",
+  "name": "Arunachal Pradesh",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4c9"
+  },
+  "code": "RJ",
+  "name": "Rajasthan",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b2"
+  },
+  "code": "LD",
+  "name": "Lakshadweep",
+  "subdivision": "Union territory",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4cd"
+  },
+  "code": "TR",
+  "name": "Tripura",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b4"
+  },
+  "code": "AP",
+  "name": "Andhra Pradesh",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc88c382e41a6158a8ee4b9"
+  },
+  "code": "GA",
+  "name": "Goa",
+  "subdivision": "state",
+  "countryId": {
+    "$oid": "5fc889cd2e41a6158a8ee41a"
+  },
+  "status": "active",
+  "updatedAt": {
+    "$date": "2020-12-03T07:14:15.147Z"
+  }
+}]

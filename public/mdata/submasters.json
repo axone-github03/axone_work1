@@ -1,0 +1,1531 @@
+[{
+  "_id": {
+    "$oid": "608d2169ca3c74f2dc938824"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Month 3",
+  "code": "MONTH_3",
+  "masterId": {
+    "$oid": "60894fd864742607056ab2eb"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T09:37:45.883Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T09:37:45.883Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d33ef41dc32f6b4a1ac1a"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Lb",
+  "code": "LB",
+  "masterId": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:56:47.194Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-23T14:24:40.614Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d33ff41dc32f6b4a1ac1b"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Lw",
+  "code": "LW",
+  "masterId": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:57:03.642Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T10:57:03.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d340e41dc32f6b4a1ac1c"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Nb",
+  "code": "NB",
+  "masterId": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:57:18.866Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T10:57:18.866Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d341841dc32f6b4a1ac1d"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Nw",
+  "code": "NW",
+  "masterId": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:57:28.381Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T10:57:28.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d342541dc32f6b4a1ac1e"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Qb",
+  "code": "QB",
+  "masterId": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:57:41.685Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T10:57:41.685Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d342e41dc32f6b4a1ac1f"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Qw",
+  "code": "QW",
+  "masterId": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:57:50.359Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T10:57:50.359Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d344041dc32f6b4a1ac20"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Acc",
+  "code": "ACC",
+  "masterId": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:58:08.963Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T10:58:08.963Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d349041dc32f6b4a1ac21"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2i-imbue",
+  "code": "2I-IMBUE",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:59:28.610Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T10:59:28.610Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d34a841dc32f6b4a1ac22"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2b-bell",
+  "code": "2B-BELL",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T10:59:52.978Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T10:59:52.978Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d34b841dc32f6b4a1ac23"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2m-drench",
+  "code": "2M-DRENCH",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:00:08.891Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:00:08.891Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d34c841dc32f6b4a1ac24"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "4m-baptize",
+  "code": "4M-BAPTIZE",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:00:24.309Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:00:24.309Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d34e541dc32f6b4a1ac25"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "4f-baptize2",
+  "code": "4F-BAPTIZE2",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:00:53.508Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:00:53.508Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d34fd41dc32f6b4a1ac26"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "6m-aqua",
+  "code": "6M-AQUA",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:01:17.176Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:01:17.176Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d350c41dc32f6b4a1ac27"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2s-splash",
+  "code": "2S-SPLASH",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:01:32.235Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:01:32.235Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d351c41dc32f6b4a1ac28"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "6f-sprinkle",
+  "code": "6F-SPRINKLE",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:01:48.488Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:01:48.488Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d353041dc32f6b4a1ac29"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2a-sodden",
+  "code": "2A-SODDEN",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:02:08.944Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:02:08.944Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d354041dc32f6b4a1ac2a"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2c-curtain",
+  "code": "2C-CURTAIN",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:02:24.832Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:02:24.832Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d355441dc32f6b4a1ac2b"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "3m-dampen",
+  "code": "3M-DAMPEN",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:02:44.408Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:02:44.408Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d356641dc32f6b4a1ac2c"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "8f2-ocean2",
+  "code": "8F2-OCEAN2",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:03:02.853Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:03:02.853Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d357641dc32f6b4a1ac2d"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "8m-ozone",
+  "code": "8M-OZONE",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:03:18.234Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:03:18.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d35aa41dc32f6b4a1ac2e"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "8f-ocean",
+  "code": "8F-OCEAN",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:04:10.352Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:04:10.352Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d370641dc32f6b4a1ac30"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2p",
+  "code": "2P",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:09:58.656Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:09:58.656Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d38e641dc32f6b4a1ac31"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Wifi-chip",
+  "code": "WIFI-CHIP",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:17:58.870Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T11:17:58.870Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d392b41dc32f6b4a1ac32"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Power-protector",
+  "code": "PP",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:19:07.333Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-28T10:48:10.088Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d394441dc32f6b4a1ac33"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "High-load",
+  "code": "HL",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:19:32.581Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-28T10:46:13.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d394e41dc32f6b4a1ac34"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Remote-controller",
+  "code": "RC2",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-05-01T11:19:42.388Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-28T10:48:48.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095344230d882a2cd36ffef"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Dtdc",
+  "code": "DTDC",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-05-07T12:36:18.733Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-07T12:36:18.733Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e6808f3b53d14587cc42"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Self",
+  "code": "SELF",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:38:24.368Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:38:24.368Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e990539c69f2add7c34e"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Anjani",
+  "code": "ANJANI",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:51:28.265Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:51:28.265Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e99a539c69f2add7c34f"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Nandan",
+  "code": "NANDAN",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:51:38.599Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:51:38.599Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e9a8539c69f2add7c350"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Trackon",
+  "code": "TRACKON",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:51:52.058Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:51:52.058Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e9be539c69f2add7c351"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Paulo",
+  "code": "PAULO",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:52:14.145Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:52:14.145Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e9c8539c69f2add7c352"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Aadi Raj",
+  "code": "AADI_RAJ",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:52:24.694Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:52:24.694Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e9d0539c69f2add7c353"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Pavan",
+  "code": "PAVAN",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:52:32.545Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:52:32.545Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e9d9539c69f2add7c354"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Shreenath",
+  "code": "SHREENATH",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:52:41.339Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:52:41.339Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e9e5539c69f2add7c355"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Gujarat",
+  "code": "GUJARAT",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:52:53.163Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:52:53.163Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9e9f1539c69f2add7c356"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Chartered",
+  "code": "CHARTERED",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T08:53:05.851Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T08:53:05.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9f41e0f7da3f9eec42e41"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Mahavir",
+  "code": "MAHAVIR",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T09:36:30.290Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T09:36:30.290Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9faa50f7da3f9eec43022"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Demo Bag",
+  "code": "DEMO_BAG",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T10:04:21.423Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T10:04:21.423Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba1fe969b0c91293698633"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Mocha",
+  "code": "MOCHA",
+  "masterId": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:43:21.481Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T12:43:21.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba203169b0c9129369866c"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "10-sw",
+  "code": "10-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:44:33.753Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-19T05:40:41.669Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba203e69b0c91293698675"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "14-sw",
+  "code": "14-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:44:46.100Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T12:44:46.100Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba22bb69b0c91293698853"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "16-Sw",
+  "code": "16_SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:55:23.897Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T12:55:46.069Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba22cb69b0c91293698854"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2-sw",
+  "code": "2-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:55:39.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T12:55:39.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba22de69b0c9129369885d"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "4-sw",
+  "code": "4-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:55:58.764Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T12:55:58.764Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba22e669b0c91293698863"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "5-sw",
+  "code": "5-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:56:06.701Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T12:56:06.701Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba22f769b0c91293698864"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "6-sw",
+  "code": "6-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:56:23.976Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T12:56:23.976Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba230269b0c91293698865"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "8-sw",
+  "code": "8-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-04T12:56:34.921Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T12:56:34.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb44167e8ae1dfc28ac04d"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Devshree",
+  "code": "DEVSHREE",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T12:46:14.975Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T12:46:14.975Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb44277e8ae1dfc28ac04e"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Ashapura",
+  "code": "ASHAPURA",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T12:46:31.194Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T12:46:31.194Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb44317e8ae1dfc28ac04f"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Om Ravi",
+  "code": "OM_RAVI",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T12:46:41.947Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T12:46:41.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb44467e8ae1dfc28ac050"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Professional",
+  "code": "PROFESSIONAL",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T12:47:02.442Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T12:47:02.442Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb44547e8ae1dfc28ac051"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Rajdhani",
+  "code": "RAJDHANI",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T12:47:16.498Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T12:47:16.498Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb44647e8ae1dfc28ac053"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Om Turanth",
+  "code": "OM_TURANTH",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T12:47:32.709Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T12:47:32.709Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d57e29a3539528f374f1df"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2s-splash-dc",
+  "code": "2S-SPLASH-DC",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-25T06:56:41.900Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-25T06:56:41.900Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc0619a3539528f374f730"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2s-splash-ac",
+  "code": "2S-SPLASH-AC",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T05:50:17.330Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T05:50:17.330Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e00be0a3539528f375b55c"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Shree Sanwariya Travels",
+  "code": "SHREE_SANWARIYA_TRAVELS",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-07-03T07:04:00.685Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T07:04:00.685Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eed788a3539528f375cde1"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Tcwd.1.1",
+  "code": "TCWD.1.1",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-07-14T12:24:40.960Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-14T12:24:40.960Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eed79fa3539528f375cde2"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Tvwd.1.4",
+  "code": "TVWD.1.4",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-07-14T12:25:03.682Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-14T12:25:03.682Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eed7bfa3539528f375cde3"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Mw.c.101",
+  "code": "MW.C.101",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-07-14T12:25:35.121Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-14T12:25:35.121Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eed7cea3539528f375cde4"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Pir.c.101",
+  "code": "PIR.C.101",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-07-14T12:25:50.143Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-14T12:25:50.143Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eed7dba3539528f375cde5"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Pir.s.102",
+  "code": "PIR.S.102",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-07-14T12:26:03.677Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-14T12:26:03.677Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f02891a3539528f375cefb"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Suraj Carrying Corporation",
+  "code": "SURAJ_CARRYING_CORPORATION",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-07-15T12:22:41.805Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-15T12:23:19.705Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60faa0d7de413be5fd2060ca"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Tvwd.1.1",
+  "code": "TVWD.1.1",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-07-23T10:58:31.751Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-23T10:58:31.751Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610b6a03de413be5fd206d32"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "2p-16a",
+  "code": "2P-16A",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-08-05T04:33:07.284Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-05T04:33:07.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610d242cde413be5fd206e66"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Jamnagar Transport Company",
+  "code": "JAMNAGAR_TRANSPORT_COMPANY",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-08-06T11:59:40.684Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-06T11:59:40.684Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6124823aebd3212b61e3538b"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Shree Balaji Courier Service",
+  "code": "SHREE_BALAJI_COURIER_SERVICE",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-08-24T05:23:06.731Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-24T05:23:06.731Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612495deebd3212b61e353a2"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Kabra Express Logistics",
+  "code": "KABRA_EXPRESS_LOGISTICS",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-08-24T06:46:54.252Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-24T06:46:54.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612f3d23ebd3212b61e3640d"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "6/16a",
+  "code": "6/16A",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-09-01T08:43:15.348Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-01T08:43:15.348Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61600843b998a6d4eb939fa4"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Tirupati Courier Services",
+  "code": "TIRUPATI_COURIER_SERVICES",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-10-08T08:58:43.227Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-08T08:58:43.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61666f63b998a6d4eb958e66"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Speedlink Express Cargo",
+  "code": "SPEEDLINK_EXPRESS_CARGO",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-10-13T05:32:19.141Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-13T05:32:19.141Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617120adb998a6d4eb99e644"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "4ho-hotel Outside Panel",
+  "code": "4HO-HOTEL_OUTSIDE_PANEL",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-10-21T08:11:25.963Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-21T08:11:25.963Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617120ccb998a6d4eb99e65d"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "4hi-hotel Inside Panel",
+  "code": "4HI-HOTEL_INSIDE_PANEL",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2021-10-21T08:11:56.326Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-21T08:11:56.326Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61791d838548fd4030ba3e3d"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Mahedra Travels",
+  "code": "MAHEDRA_TRAVELS",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-10-27T09:36:03.191Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-27T09:36:03.191Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6179296c8548fd4030ba55fa"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Raj Travels",
+  "code": "RAJ_TRAVELS",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-10-27T10:26:52.983Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-27T10:26:52.983Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617929798548fd4030ba5604"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Sky Travels",
+  "code": "SKY_TRAVELS",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-10-27T10:27:05.158Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-27T10:27:05.158Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c96335989b4d07da3a7bef"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Dattkrupa Travels",
+  "code": "DATTKRUPA_TRAVELS",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-12-27T06:54:45.028Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-27T06:54:45.028Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c96349989b4d07da3a7bf9"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Khatushayam Travels",
+  "code": "KHATUSHAYAM_TRAVELS",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2021-12-27T06:55:05.554Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-27T06:55:05.554Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d404d6989b4d07da4083ff"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Blue Dart",
+  "code": "BLUE_DART",
+  "masterId": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "createdAt": {
+    "$date": "2022-01-04T08:27:02.485Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-04T08:27:02.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d7bd3c989b4d07da425759"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "1-sw",
+  "code": "1-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2022-01-07T04:10:36.714Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-07T04:10:36.714Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621cc70e989b4d07da515cf4"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "3-sw",
+  "code": "3-SW",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2022-02-28T12:58:54.510Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-28T12:58:54.510Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623c67cd989b4d07da566937"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Tp Fitting",
+  "code": "TP_FITTING",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2022-03-24T12:45:01.106Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-24T12:45:01.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62419218989b4d07da57b76e"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Telejack Socket",
+  "code": "TELEJACK_SOCKET",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T10:46:48.680Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-28T10:46:48.680Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62419231989b4d07da57b778"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Usb Socket",
+  "code": "USB_SOCKET",
+  "masterId": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T10:47:13.708Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-28T10:47:13.708Z"
+  },
+  "__v": 0
+}]

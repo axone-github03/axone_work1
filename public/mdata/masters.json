@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "60894fa264742607056ab2e9"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Product Brand",
+  "code": "PRODUCT_BRAND",
+  "createdAt": {
+    "$date": "2021-04-28T12:05:54.924Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-28T12:05:54.924Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60894fc364742607056ab2ea"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Product Code",
+  "code": "PRODUCT_CODE",
+  "createdAt": {
+    "$date": "2021-04-28T12:06:27.121Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-20T09:28:36.353Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60894fd864742607056ab2eb"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Incentive Quarter",
+  "code": "INCENTIVE_QUARTER",
+  "createdAt": {
+    "$date": "2021-04-28T12:06:48.110Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-28T12:06:48.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609275061bdbb8c538ca8afc"
+  },
+  "status": "active",
+  "isDeleted": false,
+  "name": "Courier Service",
+  "code": "COURIER_SERVICE",
+  "createdAt": {
+    "$date": "2021-05-05T10:35:50.381Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-05T10:35:50.381Z"
+  },
+  "__v": 0
+}]

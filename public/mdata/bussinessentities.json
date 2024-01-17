@@ -1,0 +1,124 @@
+[{
+  "_id": {
+    "$oid": "608d2015ca3c74f2dc938823"
+  },
+  "phoneNo": {
+    "ccode": "+91",
+    "mobile": "7575075961"
+  },
+  "status": "active",
+  "isVerified": true,
+  "role": "bussinessentity",
+  "type": "bussinessentity",
+  "first_name": "Vishal",
+  "last_name": "Kukadiya",
+  "companyName": "Whitelion Systems Pvt Ltd",
+  "email": "sales@whitelion.in",
+  "address": {
+    "countryId": {
+      "$oid": "5fc889cd2e41a6158a8ee41a"
+    },
+    "stateId": {
+      "$oid": "5fc88c382e41a6158a8ee4ba"
+    },
+    "cityId": {
+      "$oid": "5fc891822e41a6158a8ee65a"
+    },
+    "pincode": 395007,
+    "line2": "Nr Rahul Raj Mall",
+    "line1": "Union Heights"
+  },
+  "password": "$2a$05$JHV96VCTVEdtro3PV21.CeQ2TElhVn2TGGwAwrckSJR.U30W/ndzm",
+  "otp": [],
+  "createdAt": {
+    "$date": "2021-05-01T09:32:05.193Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-01T02:42:09.368Z"
+  },
+  "__v": 3,
+  "avatar": "https://ik.imagekit.io/salescrm/1623400243505_hzjcp_zElDrMKZD.png",
+  "permissions": [
+    {
+      "_id": {
+        "$oid": "60c8482ea567a30f528f92c5"
+      },
+      "featureName": "ADD_USER",
+      "description": "Add New User",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60c84870a567a30f528f92c6"
+      },
+      "featureName": "EDIT_USER",
+      "description": "Edit an existing user",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60c84893a567a30f528f92c7"
+      },
+      "featureName": "CHANGE_USER_STATUS",
+      "description": "Change User Status",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60c8490ea567a30f528f92c8"
+      },
+      "featureName": "USER_VERIFIED_OPERATION",
+      "description": "User verified operation",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60cb1b3e154a24366554d0d2"
+      },
+      "featureName": "ADD_CHANNEL_PARTNER",
+      "description": "Add New Channel Partner",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60cb1b63154a24366554d0d3"
+      },
+      "featureName": "EDIT_CHANNEL_PARTNER",
+      "description": "Edit an existing Channel Partner",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60cb1b94154a24366554d0d4"
+      },
+      "featureName": "CHANGE_CHANNEL_PARTNER_STATUS",
+      "description": "Change Channel Partner Status",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60cb1be1154a24366554d0d5"
+      },
+      "featureName": "CHANNEL_PARTNER_VERIFIED_OPERATION",
+      "description": "Channel Partner verified operation",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60cb1c29154a24366554d0d6"
+      },
+      "featureName": "CHANNEL_PARTNER_MANAGE_CREDIT",
+      "description": "Channel Partner Manage Credit",
+      "permission": true
+    },
+    {
+      "_id": {
+        "$oid": "60cb1c56154a24366554d0d7"
+      },
+      "featureName": "CHANNEL_PARTNER_MANAGE_CREDIT_NOTE",
+      "description": "Channel Partner Manage Credit Note",
+      "permission": true
+    }
+  ],
+  "notifyToken": "dEW8blbKq4y4toQtBvQczp:APA91bGoUbiW0dQbr1SASJ_NDl9tz2GHV3sOLjyan4Dc_wfT4RqhX-eqZYRxeFhTNHewbA6xEufU8QsLZTTJxmBgflQF3HKl5uj-JqmkpQzyMDDDKBczE363QegL_BOHSGk30ZlYtoNt"
+}]
