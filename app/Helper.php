@@ -3629,9 +3629,9 @@ function getMyPrivilege($code)
 function configrationForNotify()
 {
 	$response = array();
-	$response['from_email'] = "noreply@whitelion.in";
-	$response['from_name'] = "Whitelion";
-	$response['to_name'] = "Whitelion";
+	$response['from_email'] = "axone@admin.com";
+	$response['from_name'] = "Axone Infotech";
+	$response['to_name'] = "Axone Infotech";
 
 	////TESTING
 	$response['test_email'] = "ankit.in1184@gmail.com";

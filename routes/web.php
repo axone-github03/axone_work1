@@ -45,6 +45,7 @@ Route::get('migrate', function () {
 
 Route::group(["middleware" => "auth"], function () {
 	Route::get('/dashboard', [DashboardController::class, "index"])->name('dashboard');
+	Route::get('/user-detail', [DashboardController::class, "UserDetail"])->name('user.detail');
 
 	Route::get('/dashboard-inquiry-architects-count-search-user', [DashboardInquiryArchitectsController::class, "searchUser"])->name('dashboard.inquiry.architects.count.search.user');
 	Route::post('/dashboard-inquiry-architects-count-data', [DashboardInquiryArchitectsController::class, "inquiryCount"])->name('dashboard.inquiry.architects.count.data');

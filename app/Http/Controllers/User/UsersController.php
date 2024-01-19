@@ -613,7 +613,7 @@ class UsersController extends Controller
 				if ($request->hasFile('select_img')) {
 					$request->validate(['select_img' => 'required|image|mimes:jpg,png,gif|max:2048',]);
 
-					$folderPathofFile = '/assets/user_profile';
+					$folderPathofFile = 'assets/user_profile';
 
 					$sign_img = $request->file('select_img');
 
@@ -637,7 +637,7 @@ class UsersController extends Controller
 				if ($request->hasFile('select_SIGR')) {
 					$request->validate(['select_SIGR' => 'required|image|mimes:jpg,png,gif|max:2048',]);
 
-					$folderPathofFile = '/assets/user_sign';
+					$folderPathofFile = 'assets/user_sign';
 
 					$sign_img = $request->file('select_SIGR');
 

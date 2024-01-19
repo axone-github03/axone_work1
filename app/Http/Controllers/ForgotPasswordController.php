@@ -3,29 +3,31 @@
 namespace App\Http\Controllers;
 // use App\Models\User;
 use App\Models\User;
-use Config;
+use Illuminate\Support\Facades\Config;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
-use Mail;
+use Illuminate\Support\Facades\Mail;
 
 //
 //use Session;
 
-class ForgotPasswordController extends Controller {
+class ForgotPasswordController extends Controller
+{
 
-	public function index() {
+	public function index()
+	{
 
 		if (Auth::check()) {
 			return redirect()->route('dashboard');
 		} else {
 			return view('login/forgot_password');
 		}
-
 	}
 
-	public function resetPasswordLink(Request $request) {
+	public function resetPasswordLink(Request $request)
+	{
 
 		$rules = array();
 		$rules['email'] = "required";
@@ -49,11 +51,9 @@ class ForgotPasswordController extends Controller {
 				if (!isset($userTypes[$User->type]['can_login']) || (isset($userTypes[$User->type]['can_login']) && $userTypes[$User->type]['can_login'] == 0)) {
 
 					return redirect()->route('forgot.password')->with("error", "You haven't access to reset password");
-
 				} else if ($User->status != 1) {
 
 					return redirect()->route('forgot.password')->with("error", "You cannot reset password because your account has been locked");
-
 				} else {
 					// $status = Password::sendResetLink(
 					// 	$request->only('email')
@@ -73,7 +73,7 @@ class ForgotPasswordController extends Controller {
 					$params['to_name'] = $configrationForNotify['to_name'];
 					$params['bcc_email'] = "sales@whitelion.in";
 					$params['subject'] = "Reset Password | Whitelion";
-					$params['user_name'] = $User->first_name." ".$User->last_name;
+					$params['user_name'] = $User->first_name . " " . $User->last_name;
 					$params['first_name'] = $User->first_name;
 					$params['last_name'] = $User->last_name;
 					$params['reset_password_token'] = $User->reset_password_token;
@@ -86,37 +86,32 @@ class ForgotPasswordController extends Controller {
 					Mail::send('emails.reset_password_link', ['params' => $params], function ($m) use ($params) {
 						$m->from($params['from_email'], $params['from_name']);
 						$m->to($params['to_email'], $params['user_name'])->subject($params['subject']);
-
 					});
 
 					return redirect()->route('forgot.password')->with("success", "Successfully sent reset password to your email account");
-
 				}
 			} else {
 				return redirect()->route('forgot.password')->with("error", "We can't find your email in our system");
-
 			}
-
 		}
-
 	}
 
-	public function resetPassword($token) {
+	public function resetPassword($token)
+	{
 
 		$User = User::where('reset_password_token', $token)->first();
 		if (!$User) {
 
 			return redirect()->route('forgot.password')->with("error", "Invalid reset password link, Please resend email");
-
 		}
 
 		$data = array();
 		$data['reset_password_token'] = $token;
 		return view('login/reset_password', compact('data'));
-
 	}
 
-	public function resetPasswordProcess(Request $request) {
+	public function resetPasswordProcess(Request $request)
+	{
 
 		$rules = array();
 		$rules['reset_password_token'] = "required";
@@ -135,13 +130,10 @@ class ForgotPasswordController extends Controller {
 			if (isset($response['data']['cpassword'][0]) && $response['data']['cpassword'][0] != "") {
 
 				return redirect()->back()->with("error", "Password and Confirm Password mismatch");
-
 			} else {
 
 				return redirect()->back()->with("error", "Something went wrong with validation");
-
 			}
-
 		} else {
 
 			$User = User::where('reset_password_token', $request->reset_password_token)->first();
@@ -150,14 +142,10 @@ class ForgotPasswordController extends Controller {
 				$User->password = Hash::make($request->password);
 				$User->save();
 				return redirect()->route('login')->with("success", "Successfully your password changed");
-
 			} else {
 
 				return redirect()->back()->with("error", "Invalid reset password link");
-
 			}
-
 		}
-
 	}
 }

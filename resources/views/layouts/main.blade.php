@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Whitelion" name="author" />
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('assets/images/mamaiyalogo.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('images/axone.jpg') }}">
 
 
     <link href="{{ asset('assets/libs/select2/css/select2.min.css') }}" rel="stylesheet" type="text/css" />
@@ -34,6 +34,14 @@
         rel="stylesheet" type="text/css" />
 
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/libs/toastr/build/toastr.min.css') }}">
+
+    {{-- <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Favicon--> --}}
+    <link rel="stylesheet" href="{{ asset('assets/plugins/bootstrap/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/plugins/jvectormap/jquery-jvectormap-2.0.3.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/plugins/morrisjs/morris.min.css') }}" />
+    <!-- Custom Css -->
+    {{-- <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}"> --}}
+    <link rel="stylesheet" href="{{ asset('assets/css/color_skins.css') }}">
 
     {{-- <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css" /> --}}
     <link href="{{ asset('assets/libs/sweetalert2/sweetalert2.min.css') }}" rel="stylesheet" type="text/css" />
@@ -349,11 +357,79 @@
             top: 40%;
             z-index: 999;
         }
+
+
+
+        ul ul {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            z-index: 1;
+        }
+
+        li:hover>ul {
+            display: block;
+        }
+
+
+
+
+        ul ul a:hover {
+            background-color: #f0f0f0;
+        }
+
+        .d-flex {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            margin-top: 3rem;
+        }
+
+        .user-info {
+            margin-bottom: 4rem;
+        }
+
+        .user-info .row {
+            display: none;
+        }
+
+        .user-info .row.show {
+            display: flex;
+        }
+
+        .image {
+            cursor: pointer;
+        }
+
+        .image img {
+            width: 50%;
+        }
+
+        .mega-menu {
+            font-size: 20px;
+            text-decoration: none;
+            color: #000;
+            /* Adjust color as needed */
+            margin-right: 10px;
+            /* Adjust spacing as needed */
+        }
+
+        #user-dropdown {
+            display: none;
+        }
+
+        #page-header-user-dropdown:focus+#user-dropdown,
+        #user-dropdown:hover {
+            display: block;
+        }
     </style>
 
 </head>
 
-<body data-sidebar="dark">
+<body>
 
 
     <!-- Loader -->
@@ -371,158 +447,122 @@
     </div>
 
 
-    <div id="layout-wrapper">
 
 
-        <header id="page-topbar">
-            <div class="navbar-header">
 
-                <div class="d-flex align-items-center">
-                    <!-- LOGO -->
-                    <div class="navbar-brand-box" style="height: 70px;">
-                        <div class="col-10" style="height: 100%">
-                            @php
-                                // Assuming the User model has a company relationship
-                                $company = Auth::user()->company;
-                                if ($company) {
-                                    $companyLogo = asset($company->company_logo);
-                                }
-                            @endphp
+    <header class="navbar-header" id="page-topbar">
+        <div class="w-100 ms-4" id="top-menu-lead">
+            <div class="row align-items-center">
+                <div class="col-12 text-end">
+                    <div class="dropdown d-inline-block">
+                        <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown">
+                            <img class="rounded-circle header-profile-user" src="{{ asset('images/axone.jpg') }}"
+                                alt="Header Avatar">
+                        </button>
 
-                            <a class="item">
-                                @if (isset($companyLogo))
-                                    <img src="{{ $companyLogo }}" style="height: 120%; width: 130%" alt="">
-                                @endif
+                        <div class="dropdown-menu dropdown-menu-lg-right" id="user-dropdown">
+
+
+                            <a class="dropdown-item" href="{{ route('changepassword') }}">
+                                <i class="bx bx-lock font-size-14 align-middle text-danger me-1">&nbsp;Change
+                                    Password</i>
+
+                            </a>
+
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item text-danger" href="{{ route('logout') }}">
+                                <i
+                                    class="bx bx-power-off font-size-14 align-middle me-1 text-danger">&nbsp;Logout</i>
+
                             </a>
                         </div>
                     </div>
-
-                    <button type="button" class="btn btn-sm px-3 font-size-16 header-item waves-effect"
-                        id="vertical-menu-btn">
-                        <i class="fa fa-fw fa-bars"></i>
-                    </button>
-                </div>
-                <div class="w-100 ms-4 " id="top-menu-lead">
-                    <div class="row align-items-center">
-                        <div class="col-12 text-end">
-                            <div class="dropdown d-inline-block">
-                                <button type="button" class="btn header-item waves-effect"
-                                    id="page-header-user-dropdown" data-bs-toggle="dropdown" aria-haspopup="true"
-                                    aria-expanded="false">
-                                    <img class="rounded-circle header-profile-user"
-                                        src="{{ asset('assets/images/users/default.png') }}" alt="Header Avatar">
-                                </button>
-
-                                <div class="dropdown-menu dropdown-menu-end">
-                                    <a class="dropdown-item" href="{{ route('profile') }}"><i
-                                            class="bx bx-user font-size-16 align-middle me-1"></i> <span
-                                            key="t-profile">Profile</span></a>
-
-                                    <a class="dropdown-item" href="{{ route('changepassword') }}"><i
-                                            class="bx bx-lock font-size-16 align-middle me-1"></i> <span
-                                            key="t-change-password">Change Password</span></a>
-
-                                    <div class="dropdown-divider"></div>
-                                    <a class="dropdown-item text-danger" href="{{ route('logout') }}"><i
-                                            class="bx bx-power-off font-size-16 align-middle me-1 text-danger"></i>
-                                        <span key="t-logout">Logout</span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
-        </header>
-    </div>
+        </div>
+    </header>
+
 
     <!-- ========== Left Sidebar Start ========== -->
-    <div class="vertical-menu">
+    <aside id="leftsidebar" class="sidebar">
+        <ul class="nav nav-tabs">
+            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#dashboard"><i
+                        class="bx bx-home m-r-5"></i>Oreo</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#user" id="userDetail"><i
+                        class="bx bx-user m-r-5"></i>User</a></li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane stretchRight active" id="dashboard">
 
-        <div data-simplebar class="h-100">
+                {{-- <div class="user-info mb-4">
+                    <div class="image" id="img_logo"> <img src="{{ asset('images/axone.jpg') }}" width="50%">
+                    </div>
+                </div> --}}
 
-            <!--- Sidemenu -->
-            <div id="sidebar-menu">
+                <div class="menu">
+                    <ul class="list">
 
+                        <li class="header">MAIN</li>
+                        <li class=" open"> <a href="{{ route('dashboard') }}"><i
+                                    class="bx bx-home"></i><span>Dashboard</span></a>
+                        </li>
+                        <li class="open"> <a href="{{ route('company.index') }}"><i
+                                    class="bx bx-group"></i><span>Company</span></a>
+                        </li>
+                        <li class="open"> <a href="{{ route('branch.index') }}"><i
+                                    class="bx bx-group"></i><span>Branch</span></a>
+                        </li>
+                        <li class="open"> <a href="{{ route('users.admin') }}"><i
+                                    class="bx bx-group"></i><span>User</span></a>
+                        </li>
+                        <li class="open"> <a href="{{ route('users.order.index') }}"><i
+                                    class="bx bx-group"></i><span>Order</span></a>
+                        </li>
 
-                <!-- Left Menu Start -->
-                <ul class="metismenu list-unstyled" id="side-menu">
-                    <li class="menu-title" key="t-menu">Menu</li>
-                    <li>
-                        <a href="{{ route('dashboard') }}" class="waves-effect">
-                            <i class="bx bx-home-circle"></i><span
-                                class="badge rounded-pill bg-info float-end"></span>
-                            <span key="t-dashboards">Dashboard</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ route('company.index') }}" class="waves-effect">
-                            <i class="bx bx-group"></i>
-                            <span key="t-company">Company Master</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ route('branch.index') }}" class="waves-effect">
-                            <i class="bx bx-group"></i>
-                            <span key="t-branch">Branch Master</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="{{ route('users.admin') }}" class="waves-effect">
-                            <i class="bx bx-group"></i>
-                            <span key="t-user">User</span>
-                        </a>
-                    </li>
-                    {{-- <li>
-                        <a href="{{ route('user.type.index') }}" class="waves-effect">
-                            <i class="bx bx-group"></i>
-                            <span key="t-user">User Type</span>
-                        </a>
-                    </li> --}}
-                    <li>
-                        <a href="{{ route('users.order.index') }}" class="waves-effect">
-                            <i class="bx bx-group"></i>
-                            <span key="t-order">Order</span>
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="javascript: void(0);" class="has-arrow waves-effect">
-                            <i class="bx bxs-map"></i>
-                            <span key="t-location">Location</span>
-                        </a>
-                        <ul class="sub-menu" aria-expanded="false">
+                        <li>
+                            <a href="javascript:void(0);" class=""><i
+                                    class="bx bx-map"></i><span>Location</span></a>
+                            <ul class="">
+                                <li><a href="{{ route('countrylist') }}">Country</a></li>
+                                <li><a href="{{ route('statelist') }}">State</a></li>
+                                <li><a href="{{ route('citylist') }}">City</a></li>
+                            </ul>
+                        </li>
 
 
 
 
-                            <li>
-                                <a href="{{ route('countrylist') }}" class="waves-effect">
-
-                                    <span key="t-country">Country List</span>
-                                </a>
-                            </li>
-
-                            <li>
-                                <a href="{{ route('statelist') }}" class="waves-effect">
-
-                                    <span key="t-state">State List</span>
-                                </a>
-                            </li>
-
-                            <li>
-                                <a href="{{ route('citylist') }}" class="waves-effect">
-
-                                    <span key="t-city">City List</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                </ul>
+                    </ul>
+                </div>
             </div>
-            <!-- Sidebar -->
+            <div class="tab-pane stretchLeft" id="user">
+                <div class="menu">
+                    <ul class="list">
+                        <li>
+                            <div class="user-info mt-4">
+                                <div class="image mb-5"><img width="50%" id="user_img" alt="User"></div>
+                                <div class="detail">
+                                    <h4 id="full_name"></h4>
+                                    <small></small>
+                                </div>
+
+                                <p class="text-muted" id="address"></p>
+                            </div>
+                        </li>
+                        <li>
+                            <small class="text-muted">Email address: </small>
+                            <p id="email"> </p>
+                            <hr>
+                            <small class="text-muted">Phone: </small>
+                            <p id="phone_number"></p>
+                            <hr>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
         </div>
-    </div>
+    </aside>
     <!-- Left Sidebar End -->
 
 
@@ -540,6 +580,16 @@
     </div>
     <!-- END layout-wrapper -->
 
+
+    <script src="{{ asset('assets/bundles/libscripts.bundle.js') }}"></script> <!-- Lib Scripts Plugin Js ( jquery.v3.2.1, Bootstrap4 js) -->
+    <script src="{{ asset('assets/bundles/vendorscripts.bundle.js') }}"></script> <!-- slimscroll, waves Scripts Plugin Js -->
+
+    <script src="{{ asset('assets/bundles/morrisscripts.bundle.js') }}"></script><!-- Morris Plugin Js -->
+    <script src="{{ asset('assets/bundles/jvectormap.bundle.js') }}"></script> <!-- JVectorMap Plugin Js -->
+    <script src="{{ asset('assets/bundles/knob.bundle.js') }}"></script> <!-- Jquery Knob, Count To, Sparkline Js -->
+
+    <script src="{{ asset('assets/bundles/mainscripts.bundle.js') }}"></script>
+    <script src="{{ asset('assets/js/pages/index.js') }}"></script>
 
 
 
@@ -653,6 +703,33 @@
             $(this).addClass('show');
             $("#page-header-notifications-dropdown").addClass('show');
 
+        });
+
+        $(document).ready(function() {
+            var ajaxURLUserDetail = '{{ route('user.detail') }}';
+
+            $.ajax({
+                type: 'GET',
+                url: ajaxURLUserDetail,
+                success: function(resultData) {
+                    if (resultData['status'] == 1) {
+                        var userData = resultData.data;
+
+                        // Update the HTML elements with user data
+                        $('#user_img').attr('src', resultData['img']);
+                        $('#full_name').text(userData.first_name + ' ' + userData.last_name);
+                        $('#address').text(userData.address_line1 + ' ' + userData.address_line2 +
+                            ', ' + userData.area + ', ' + userData.pincode);
+                        $('#email').text(userData.email);
+                        $('#phone_number').text(userData.dialing_code + ' ' + userData.phone_number);
+                    }
+                }
+            });
+        });
+        document.querySelector('.image').addEventListener('click', function() {
+            document.querySelectorAll('.user-info .row').forEach(function(row) {
+                row.classList.toggle('show');
+            });
         });
     </script>
 

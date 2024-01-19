@@ -410,7 +410,7 @@ class CompanyController extends Controller
             $data[$key]['address_arabic'] =  '<p class="text-muted mb-0">' . $value['arabic_address_line_1'] . ', ' . $value['arabic_address_line_2'] . '</p>';
 
             $data[$key]['status'] = getMainMasterStatusLable($value['status']);
-            $uiAction = '<ul class="list-inline font-size-20 contact-links mb-0"><li class="list-inline-item px-2"><a class="me-2" onclick="editData(\'' . $value['id'] . '\')" href="javascript: void(0);" title="Edit"><i class="bx bx-edit-alt"></i></a><a onclick="deleteData(\'' . $value['id'] . '\')" href="javascript: void(0);" title="Delete"><i class="bx bx-trash-alt"></i></a></li></ul>';
+            $uiAction = '<ul class="list-inline font-size-20 contact-links mb-0"><li class="list-inline-item px-2"><a class="me-2" onclick="editData(\'' . $value['id'] . '\')" href="javascript: void(0);" title="Edit"><i class="bx bx-edit-alt text-info"></i></a><a onclick="deleteData(\'' . $value['id'] . '\')" href="javascript: void(0);" title="Delete"><i class="bx bx-trash-alt text-danger"></i></a></li></ul>';
             // $uiAction = '<ul class="list-inline font-size-20 contact-links z-0">';
             // $uiAction .= '<a onclick="editedata(\'' . $value['id'] . '\')" href="javascript: void(0);" title="Edit"><i class="bx bx-edit-alt"></i></a>';
             // $uiAction .= '<a onclick="delete_warning(\'' . $value['id'] . '\')" href="javascript: void(0);" title="Delete"><i class="bx bx-trash-alt"></i></a>';

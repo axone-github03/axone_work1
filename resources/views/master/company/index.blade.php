@@ -85,7 +85,7 @@
 
 
                                         <div class="col-md-12 ">
-                                            <div class="mb-3 d-flex">
+                                            <div class="mb-3">
 
                                                 <label for="user_profile_img" class="form-label">Profile-Image <code
                                                         class="highlighter-rouge">*</code></label>

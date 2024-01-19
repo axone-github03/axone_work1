@@ -224,4 +224,23 @@ class DashboardController extends Controller
 		}
 		return response()->json($response)->header('Content-Type', 'application/json');
 	}
+
+	public function UserDetail()
+	{
+		$user = User::find(Auth::user()->id);
+
+		if (!$user) {
+			// Handle the case where the user is not found
+			$response = errorRes('User not found', 404);
+			return response()->json($response)->header('Content-Type', 'application/json');
+		}
+
+		$userIMG = asset($user->avatar);
+
+		$response = successRes();
+		$response['data'] = $user;
+		$response['img'] = $userIMG;
+
+		return response()->json($response)->header('Content-Type', 'application/json');
+	}
 }

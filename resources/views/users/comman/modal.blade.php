@@ -20,7 +20,7 @@
                     <div class="row ">
 
                         <div class="col-md-6 ">
-                            <div class="mb-3 d-flex">
+                            <div class="mb-3">
 
                                 <label for="user_profile_img" class="form-label">Profile-Image <code
                                         class="highlighter-rouge">*</code></label>
@@ -34,7 +34,7 @@
 
                         </div>
                         <div class="col-md-6 ">
-                            <div class="mb-3 d-flex">
+                            <div class="mb-3">
 
                                 <label for="user_signature" class="form-label">Uplode-Signature<code
                                         class="highlighter-rouge">*</code></label>

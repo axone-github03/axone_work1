@@ -1,83 +1,63 @@
-<!doctype html>
+
+</html>
+<!DOCTYPE html>
+<!--
+Template Name: Deepor - Responsive Bootstrap 4 Admin Dashboard Template
+Author: Hencework
+
+License: You must have a valid license purchased only from templatemonster to legally use the template for your project.
+-->
 <html lang="en">
 
 <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Axone I Login</title>
+    <meta name="description" content="A responsive bootstrap 4 admin dashboard template by hencework" />
 
-    <meta charset="utf-8" />
-    <title>Login | ERP - Whitelion</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ asset('images/axone.jpg') }}">
+    <link rel="icon" href="{{ asset('images/axone.jpg') }}" type="image/x-icon">
 
-    <meta content="Whitelion" name="author" />
-    <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
     <!-- Bootstrap Css -->
-    <link href="{{ asset('assets/css/bootstrap.min.css') }}" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('assets/css/bootstrap.min.css') }}" id="bootstrap-style" rel="stylesheet"
+        type="text/css" />
     <!-- Icons Css -->
     <link href="{{ asset('assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
     <!-- App Css-->
-    <link href="{{ asset('assets/css/app.min.css') }}" id="app-style" rel="stylesheet" type="text/css" />
-    <meta name="csrf-token" content="{{ csrf_token() }}" />
-    <style>
-        body {
-            background-image: linear-gradient(to right top, #ffffff, #d6d0fc, #aaa4f7, #7579f2, #1251eb);
-        }
-    </style>
+    <link href="{{ asset('assets/css/app.min.css?v=2') }}" id="app-style" rel="stylesheet" type="text/css" />
+    <!-- Toggles CSS -->
+    <link href="{{ asset('assets/vendors4/toggles.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ asset('assets/vendors4/toggles-light.css') }}" rel="stylesheet" type="text/css">
 
-    <style type="text/css">
-        input[type="number"]::-webkit-inner-spin-button,
-        input[type="number"]::-webkit-outer-spin-button {
-            -webkit-appearance: none;
-            -moz-appearance: none;
-            appearance: none;
-            margin: 0;
-        }
-
-
-        .card-2 {
-
-            padding: 10px;
-            width: 350px;
-            height: 100px;
-            bottom: -50px;
-            left: 20px;
-            position: absolute;
-            border-radius: 5px;
-        }
-
-        .card-2 .content {
-            margin-top: 50px;
-        }
-    </style>
-
+    <!-- Custom CSS -->
+    <link href="{{ asset('assets/dist/style.css') }}" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-    <div class="account-pages my-5 pt-sm-5">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-8 col-lg-6 col-xl-5">
-                    <div class="card overflow-hidden">
-                        <div class="bg-primary bg-soft">
-                            <div class="row">
-                                <div class="col-7">
-                                    <div class="text-primary p-4">
-                                        <h5 class="text-primary">Welcome Back !</h5>
-                                        <p>Sign in to continue to Whitelion.</p>
-                                    </div>
-                                </div>
-                                <div class="col-5 align-self-end">
-                                    <img src="{{ asset('assets/images/profile-img.png') }}" alt=""
-                                        class="img-fluid">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card-body pt-0">
 
-                            <div class="p-2">
-                                <form class="needs-validation" action="{{ route('login.otp.process') }}" method="POST"
-                                    novalidate>
+
+    <!-- HK Wrapper -->
+    <div class="hk-wrapper">
+
+        <!-- Main Content -->
+        <div class="hk-pg-wrapper hk-auth-wrapper">
+
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-12 pa-0">
+                        <div class="auth-form-wrap pt-xl-0 pt-70">
+                            <div class="auth-form w-xl-30 w-lg-55 w-sm-75 w-100">
+                                <a class="d-flex auth-brand align-items-center justify-content-center  mb-20"
+                                    href="#">
+                                    <img class="brand-img d-inline-block mr-5" src="{{ asset('images/axone.jpg') }}"
+                                        alt="brand" />
+                                </a>
+                                <form class="needs-validation" action="{{ route('login.otp.process') }}"
+                                    method="POST" novalidate>
                                     @csrf
-                                    <input type="hidden" id="type" name="type" value="{{ $data['type'] }}">
+                                    <input type="hidden" id="type" name="type"
+                                        value="{{ $data['type'] }}">
                                     <div class="alert alert-danger" id="error" style="display: none;"></div>
                                     <div class="mb-3">
                                         <label for="email" class="form-label">Email / Phone number</label>
@@ -86,9 +66,9 @@
                                             placeholder="Enter email/phone number" required name="email"
                                             @if ($data['type'] == 1) readonly @endif
                                             value="{{ $data['email'] }}">
-                                        </div>
-                                        {{-- <div id="recaptcha-container"></div> --}}
-                                        {{-- <div class="alert alert-success" id="successOtpAuth" style="display: none;"></div> --}}
+                                    </div>
+                                    {{-- <div id="recaptcha-container"></div> --}}
+                                    {{-- <div class="alert alert-success" id="successOtpAuth" style="display: none;"></div> --}}
                                     @if ($data['type'] == 1)
                                         <div class="container height-100 d-flex justify-content-center align-items-center"
                                             id="div_verify_otp">
@@ -135,8 +115,9 @@
 
                                     @if ($data['type'] == 0)
                                         <div class="mt-3 d-grid">
-                                            <button class="btn btn-primary waves-effect waves-light" type="submit">Send
-                                            {{-- <button class="btn btn-primary waves-effect waves-light" onclick="sendOTP();" type="button">Send --}}
+                                            <button class="btn btn-primary waves-effect waves-light"
+                                                type="submit">Send
+                                                {{-- <button class="btn btn-primary waves-effect waves-light" onclick="sendOTP();" type="button">Send --}}
                                                 OTP</button>
                                         </div>
                                     @endif
@@ -154,54 +135,50 @@
                                         </div>
                                     @endif
 
-                                    <div class="mt-4 text-center">
-                                        <a href="{{ route('login') }}" class="text-primary">Login With Password</a>
+                                    <div class="text-center">
+                                        <a href="{{ route('login') }}" class="btn btn-info waves-effect waves-light w-100">Login With Password</a>
 
                                     </div>
 
                                     <div class="mt-1 text-center">
-                                        <a href="{{ route('forgot.password') }}" class="text-primary"><i
+                                        <a href="{{ route('forgot.password') }}" class="btn btn-warning waves-effect waves-light w-100"><i
                                                 class="mdi mdi-lock me-1"></i> Forgot your password?</a>
 
                                     </div>
                                 </form>
+
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- /Main Content -->
+
     </div>
-    <!-- end account-pages -->
+    <!-- /HK Wrapper -->
 
-    <!-- JAVASCRIPT -->
-    <script src="{{ asset('assets/libs/jquery/jquery.min.js') }}"></script>
-    <script src="{{ asset('assets/libs/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('assets/libs/metismenu/metisMenu.min.js') }}"></script>
-    <script src="{{ asset('assets/libs/simplebar/simplebar.min.js') }}"></script>
-    <script src="{{ asset('assets/libs/node-waves/waves.min.js') }}"></script>
-    <script src="{{ asset('assets/libs/parsleyjs/parsley.min.js') }}"></script>
-    <script src="{{ asset('assets/js/pages/form-validation.init.js') }}"></script>
+    <!-- JavaScript -->
 
-    <!-- App js -->
-    <script src="{{ asset('assets/js/app.js') }}"></script>
-    {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> --}}
-    <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
-    {{-- <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase.js"></script> --}}
+    <!-- jQuery -->
+    <script src="{{ asset('assets/vendors4/jquery.min.js') }}"></script>
 
-    <script>
-        // var firebaseConfig = {
-        //     apiKey: "AIzaSyDpibnKQmI4KIcW8TNwXbquNZ69GxO8aUw",
-        //     authDomain: "whitelion-erp.firebaseapp.com",
-        //     databaseURL: "https://whitelion-erp.firebaseio.com",
-        //     projectId: "whitelion-erp",
-        //     storageBucket: "whitelion-erp.appspot.com",
-        //     messagingSenderId: "877490806309",
-        //     appId: "1:877490806309:web:b474f6be0305c76759a9cc",
-        //     measurementId: "G-TYCCHHZFBE"
-        // };
-        // firebase.initializeApp(firebaseConfig);
-    </script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{ asset('assets/vendors4/popper.min.js') }}"></script>
+    <script src="{{ asset('assets/vendors4/bootstrap.min.js') }}"></script>
+
+    <!-- Slimscroll JavaScript -->
+    <script src="{{ asset('assets/dist/jquery.slimscroll.js') }}"></script>
+
+    <!-- Fancy Dropdown JS -->
+    <script src="{{ asset('assets/dist/dropdown-bootstrap-extended.js') }}"></script>
+
+    <!-- FeatherIcons JavaScript -->
+    <script src="{{ asset('assets/dist/feather.min.js') }}"></script>
+
+    <!-- Init JavaScript -->
+    <script src="{{ asset('assets/dist/init.js') }}"></script>
+
     <script type="text/javascript">
         // window.onload = function() {
         //     render();
@@ -275,6 +252,5 @@
         }, 2000);
     </script>
 </body>
-
 
 </html>
